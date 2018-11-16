@@ -40,4 +40,4 @@ This course has four types of assessments.
 4) a written midterm and final project—both of which have in-class presentation requirements.
  
   
-![STUDIO Logo](/visuals/studiologo.png)
+![STUDIO Logo](/images/studiologo.png)
