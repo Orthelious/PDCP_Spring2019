@@ -10,12 +10,13 @@ College of Fine Arts, Room 111
 Carnegie Mellon University
 Pittsburgh, PA 15213
 
-### Instructor
+### Instructor 
 _Tom Hughes_  
 Associate Director, [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)  
 College of Fine Arts, Room 111  
 Contact: thughes@cmu.edu  
-Office Hours: By request
+Office Hours: By request  
+(He/Him/His)  
 
 ### Course Description
 This course is intended to expose students studying in creative fields to the basic principles, skills and functions of business used every day in creative practices and industries. Supporting a creative practice - whether an individual studio practice, a temporary collaboration or commission, or an incorporated business or non-profit - all require a foundational knowledge of basic organizational, legal, and financial structures and practices. 
@@ -37,7 +38,6 @@ This course has four types of assessments.
 2) Take-home quizzes on course units. 
 3) Class engagement.
 4) a written midterm and final project—both of which have in-class presentation requirements.
-  
-
+ 
   
 ![STUDIO Logo](/visuals/studiologo.png)
