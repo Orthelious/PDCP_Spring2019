@@ -36,6 +36,8 @@ This course has four types of assessments.
 1) Short-response homework assignments. 
 2) Take-home quizzes on course units. 
 3) Class engagement.
-4) a written midterm and final project¿both of which have in-class presentation requirements.
+4) a written midterm and final project—both of which have in-class presentation requirements.
+  
 
+  
 ![STUDIO Logo](/visuals/studiologo.png)
