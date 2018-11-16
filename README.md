@@ -5,4 +5,3 @@ Offered at the Carnegie Mellon University (CMU) Frank-Ratchye STUDIO for Creativ
 Course commissioned by the CMU School of Art
 CMU Course Number: 60-350
 Instructor: Tom Hughes
-
