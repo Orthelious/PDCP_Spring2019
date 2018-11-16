@@ -38,3 +38,4 @@ This course has four types of assessments.
 3) Class engagement.
 4) a written midterm and final project¿both of which have in-class presentation requirements.
 
+![](/images/STUDIO_logo.png)
