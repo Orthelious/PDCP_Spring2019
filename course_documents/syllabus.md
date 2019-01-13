@@ -1,5 +1,5 @@
-#Professional Development for Creative Practices  
-###Course Syllabus // Spring 2019  
+# Professional Development for Creative Practices  
+### Course Syllabus // Spring 2019  
 **Course Number**: 60-350  
 **Meeting Days**: Friday   
 **Meeting Time:** 8:30am - 11:20am  
