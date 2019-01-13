@@ -44,6 +44,41 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 * [0.0] MISCELLANEOUS
 
 ***
+## [0.0] MISCELLANEOUS
+This area is a bit of a dumping ground for website-in-whole that don't easily fit into my course unit schema. 
+
+######Generally Good Websites to Follow:
+*	[Getting Your Shit Together](https://www.gyst-ink.com/)
+* Fractured Atlas 
+* [The Creative Independent](https://thecreativeindependent.com/)
+* [Chicago Artists Resource](http://www.chicagoartistsresource.org/)
+* Artnet
+* Artsy
+* Americans for the Arts
+* National Endowment for the Arts
+* National Endowment for the Humanities
+
+
+###### Arts Councils and State Arts Agencies
+[National Assembly of State Arts Agencies](https://nasaa-arts.org/)
+
+###### Artist Residencies
+* ResArtis
+* Alliance of Artist Communities
+* 
+
+###### Government Websites to Bookmark
+[US Copyright Office](https://www.copyright.gov/)  
+[US Patent and Trademark Office](https://www.uspto.gov/)  
+[US Department of Labor](https://www.dol.gov/)  
+[Equal Employment Opportunity Commission](https://www.eeoc.gov/index.cfm)  
+[Internal Revenue Service](https://www.irs.gov/)
+[National Labor Relations Board](https://www.nlrb.gov/)  
+[Small Business Administration](https://www.sba.gov/)    
+[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)
+
+
+
 ## [0.1] Course Introduction and Key Concepts
 ###### Cited Sources 
 ###### Reccomended  
@@ -156,4 +191,3 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 ###### Cited Sources 
 ###### Reccomended  
 ###### Of-Interest
-## [0.0] MISCELLANEOUS
