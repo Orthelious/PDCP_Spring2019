@@ -21,10 +21,11 @@ Office hours by reservation. Please use [this link](https://www.cloudhq.net/meet
 · Email — General course updates  
 
 ###Contents  
-[Course Description] (#CD)  
-[Course Framing] (#CF)   
-[Assessments and Grading Policies] (#AGP)  
-[Other Class Policies] (#OCP)
+1. [Course Description] (#CD)  
+1. [Course Framing] (#CF)
+2. Course Units and Schedule   
+1. [Assessments and Grading Policies] (#AGP)  
+1. [Other Class Policies] (#OCP)
     
 
 ##<a name="CD"> Course Description</a>
@@ -68,44 +69,9 @@ Consider this class a safe space, once a week, for three hours, to explore what 
  
 ##<a name="AGP">Assessments and Grading Policies</a>
 
-### // ASSESSMENT STRUCTURE
-_This course has four types of assessments:_   
-1) Homework assignments.  
+Please see the Assessment and Grading Policies Page:
+[INSERT LINK] 
 
-2) Take-home quizzes on course units.  
-
-3) Class engagement.  
-
-4) A final project. 
-
-### // COURSE GRADE
-**GRADING SCALE FOR COURSE GRADE**  
-(A) — 90 to 100 points  
-(B) — 80 to 89 points  
-(C) — 70 to 79 points  
-(D) — 60 to 69 points  
-(R) — 59 points and below  
-
-**GRADING BREAKDOWN**  
-Engagement*: 	20 points  
-Homework Assigments and Quizzes:	60 points  
-Final Project: 20 points   
-
-###// GRADING SCALE FOR ASSIGNMENTS
-&&
-
-###// OTHER GRADING POLICIES
-***ENGAGEMENT** — Individual student engagement will be determined by the instructor. All students will begin the course with 20 points (20% of your final grade) and may only lose points for infractions. Each infraction will result first in a verbal warning, and if the behavior continues, the student will lose 
-1 point (equivalent to 1% of your final grade). Students will be made aware of point reductions privately via email. 
-
-_For the purpose of this course, infractions will be defined as:_  
-· Lack of attentiveness (i.e. asleep or working on other course classwork during this course)  
-· Not having devices in politeness mode (i.e. having a laptop/smartphone open/out during class)  
-· Lack of engagement in class discussion (i.e. the student has not expressed an opinion or asked a question at least once over the entirety of the course).
-
-**GROUP WORK** — Group work is encouraged for homework assignments with the exception of the final project and/or specific assignments as noted by the instructor. If students choose to work as a group, they must include collaborators’ names on their assignment. Groups are limited to 3 students.
-
-**LATE WORK** — Homework assignments are due at the start of class. Check the course schedule for assignment due dates. Late assignments may be submitted up to two days after due date and will receive an automatic (I) grade. Submission of a late final project will result in reduction of one letter grade.
 
 ##<a name="OCP">Other Class Policies</a>
 ###// ATTENDANCE POLICY
