@@ -13,6 +13,7 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 ***
 ### _Table of Contents_
 
+* [[0.0] MISCELLANEOUS](#00)
 * [0.1] Course Introduction and key concepts
 * [A.1] Business Structures and Models
 * [A.2] Agency and the types of Employment
@@ -41,10 +42,9 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 * [G.1] Presentation Skills 
 * [G.2] Networking
 * [G.3] Negotiation
-* [0.0] MISCELLANEOUS
 
 ***
-## [0.0] MISCELLANEOUS
+##<a name="00">[0.0] MISCELLANEOUS</a>
 This area is a bit of a dumping ground for website-in-whole that don't easily fit into my course unit schema. 
 
 ######Generally Good Websites to Follow:
