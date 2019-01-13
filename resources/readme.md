@@ -1,4 +1,4 @@
-#RESOURCES
+# RESOURCES
 
 This page is a collection of webpages, pdfs, videos, etc that we have either discussed in class or are relevenat to the subject matter.  
 
