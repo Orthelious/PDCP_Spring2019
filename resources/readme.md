@@ -11,7 +11,7 @@ _Resources are grouped by Course Unit and divided into three categories:_
 _Disclaimer: This is a living document that is constantly being updated and added to. This is in no way a definitive list. Have something to contribute? Please message me._
 
 ***
-###_Table of Contents_
+### _Table of Contents_
 
 * [0.1] Course Introduction and key concepts
 * [A.1] Business Structures and Models
