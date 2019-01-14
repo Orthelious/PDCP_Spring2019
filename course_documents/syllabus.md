@@ -23,20 +23,20 @@ Office hours by reservation. Please use [this link](https://www.cloudhq.net/meet
 * Email — General course updates  
 
 ## Contents  
-1. [Course Description] (#CD)  
-1. [Course Framing] (#CF)
+1. [Course Description](#cd)  
+1. [Course Framing](#cf)
 2. [Course Units and Semester Schedule](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)   
 1. [Assessments and Grading Policies] (https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
-1. [Other Class Policies] (#OCP)
+1. [Other Class Policies](#ocp)
     
 
-## <a name="CD"> Course Description</a>
+## <a name="cd"> Course Description</a>
 This course is intended to expose students studying in creative fields to the basic principles, skills and functions of business used every day in creative practices and industries. Supporting a creative practice - whether an individual studio practice, a temporary collaboration or commission, or an incorporated business or non-profit - all require a foundational knowledge of basic organizational, legal, and financial structures and practices. 
 
 Throughout this seminar-style course, students can expect to develop a starting knowledge of basic business concepts; learn a foundational understanding of ethics and best practices in business; develop problem-solving skill sets and methodologies for managing creative projects and programs; and practice applying these learnings to their own creative practices. Topics covered will include, but are not limited to: basic business structures; intellectual property; Contracts and employment; methods for generating income and fundraising; financial management and taxes; marketing and communications; negotiation and compromise; and elements of business strategy development. 
 
 
-## <a name="CF">Course Framing</a>
+## <a name="cf">Course Framing</a>
 
 ### // LEARNING OBJECTIVES
 1. Build a foundational knowledge and vocabulary of business concepts, laws and practices.  
@@ -69,11 +69,11 @@ What we will cover over the course of the semester are frameworks, guidelines, s
 ###### — Be Yourself   
 Consider this class a safe space, once a week, for three hours, to explore what you want to do with your life and practice. Ask the questions that are difficult, or that feel dumb, or that feel scary. My goal in this class is not to turn you into the perfect businessperson, but to empower you. 
  
-<a name="AGP">Assessments and Grading Policies</a>
+<a name="agp">Assessments and Grading Policies</a>
 
 Please see: [Assessment and Grading Policies](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)
 
-## <a name="OCP">Other Class Policies</a>
+## <a name="ocp">Other Class Policies</a>
 ### // ATTENDANCE POLICY
 Please look ahead at the [Semester Schedule](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)  and see if you need to miss class for any excusable reason (religious observance, job interview, university-sanctioned event, etc.) and notify me as soon as possible. We may be able to make alternative arrangements for completing assignments. If there are extenuating circumstances that require you to miss more than one class session, please come and discuss this issue with me in advance of your absence(s).   
 
