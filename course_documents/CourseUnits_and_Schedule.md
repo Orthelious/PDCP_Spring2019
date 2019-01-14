@@ -164,7 +164,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="10">**WEEK 10**  — MARCH 22, 2019</a>
 *Class Activity*
 
-* GRANT PROPOSAL REVIEW PANEL
+* *Grant Project Review Panel*
  
 ***
 
@@ -225,5 +225,5 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ***
 
 ###### <a name="17">**WEEK 17**  — MAY 10, 2019</a>
-**_FINAL PRESENTATIONS_**
+* *Final Presentations*
 ***
