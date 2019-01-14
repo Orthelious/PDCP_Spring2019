@@ -1,6 +1,6 @@
 # RESOURCES
 
-This page is a collection of webpages, pdfs, videos, etc that we have either discussed in class or are relevenat to the subject matter.  
+This page is a collection of webpages, pdfs, videos, etc that we have either discussed in class or are relevant to the subject matter.  
 
 _Resources are grouped by Course Unit and divided into three categories:_ 
 
@@ -44,10 +44,10 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 * [G.3] Negotiation
 
 ***
-##<a name="00">[0.0] MISCELLANEOUS</a>
+## <a name="00">[0.0] MISCELLANEOUS</a>
 This area is a bit of a dumping ground for website-in-whole that don't easily fit into my course unit schema. 
 
-######Generally Good Websites to Follow:
+###### Generally Good Websites to Follow:
 *	[Getting Your Shit Together](https://www.gyst-ink.com/)
 * Fractured Atlas 
 * [The Creative Independent](https://thecreativeindependent.com/)
