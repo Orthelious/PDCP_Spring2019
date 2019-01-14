@@ -27,7 +27,7 @@ _This course has four types of assignments:_
 	3. Lack of engagement in class discussion (i.e. the student has not expressed a single opinion or asked a question at least once over the entirety of the course).
 
 ***
-## <a name="CGP">// COURSE GRADE POLICY</a>
+## <a name="CGP">// COURSE GRADING POLICY</a>
 ##### **GRADING SCALE FOR COURSE GRADE**  
 	(A) — 90 to 100 points  
 	(B) — 80 to 89 points  
