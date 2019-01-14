@@ -59,7 +59,7 @@ Throughout this seminar-style course, students can expect to develop a starting 
 There are going to be opinions you'll hear throughout your degrees and in your careers on what makes a great artist, an amazing designer, a brilliant architect—but I honestly don't care. If you want to work in a corporation, go for it. If you want to run an anti-capitalist social movement, do it. If you want to be an gallery star, rad. If you want to be a hermit in the woods, awesome. Any of the concepts we cover in this course can apply to whatever career direction you want to take, but we will not debate what the best path is. 
 
 ###### — Think of Business like Cooking  
-I've spent a lot of my time over the past year learning to cook. One of my favorite books on the subject is [_Salt Fat Acid Heat_] (https://www.simonandschuster.com/books/Salt-Fat-Acid-Heat/Samin-Nosrat/9781476753836) by Samin Nosrat. The basic premise is that mastering four basic factors will make food taste delicious. But from that point, there is a world of food that depends so heavily on culture, background, personal taste and preference, and our appetites.   
+I've spent a lot of my time over the past year learning to cook. One of my favorite books on the subject is [Salt Fat Acid Heat](https://www.simonandschuster.com/books/Salt-Fat-Acid-Heat/Samin-Nosrat/9781476753836) by Samin Nosrat. The basic premise is that mastering four basic factors will make food taste delicious. But from that point, there is a world of food that depends so heavily on culture, background, personal taste and preference, and our appetites.   
 
 Business is very much the same way. We're going to talk about how things work, but how you best apply factors to your practice depends on you. 
 
