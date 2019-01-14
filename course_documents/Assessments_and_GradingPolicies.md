@@ -1,14 +1,14 @@
-##Assessments and Grading Policies
+# Assessments and Grading Policies
 
-1. Assessment Structure  
-1. Course Grading Policy  
-1. Grading Rubrics and Scoring Strategy  
-1. Other Grading Policies  
+1. [Assessment Structure ](#AS) 
+1. [Course Grading Policy ](#CGP) 
+1. [Grading Rubrics and Scoring Strategy  ](#GRSS)
+1. [Other Grading Policies  ](#OGP)
 
-### // ASSESSMENT STRUCTURE
+## <a name="AS">// ASSESSMENT STRUCTURE</a>  
 _This course has four types of assessments:_  
  
-* **Homework assignments** — Homework assignments will usually require group-work, online research, and some level of analysis. Homework assigments are worth 5 points each and finished assignments will be discussed in class.   
+* **Homework assignments** — Homework assignments will usually require group-work, online research, and some level of analysis. Homework assignments are worth 5 points each and finished assignments will be discussed in class.   
 
 * **Take-home quizzes** — Quizzes will be a series of  short-response prompts based on real-life situations. These are intended to help you practice applying class concepts to your own practices. You may use any resource at your disposal to complete quizzes. 
  
@@ -24,7 +24,7 @@ _This course has four types of assessments:_
 	3. Lack of engagement in class discussion (i.e. the student has not expressed a single opinion or asked a question at least once over the entirety of the course).
 
 ***
-### // COURSE GRADE
+## <a name="CGP">// COURSE GRADE POLICY</a>
 ##### **GRADING SCALE FOR COURSE GRADE**  
 	(A) — 90 to 100 points  
 	(B) — 80 to 89 points  
@@ -40,16 +40,40 @@ By the mid-term, you will have earned 50% of the total points for the course.
 	* Projects: 30 points  
 
 ***
-###// GRADING RUBRICS AND SCORING STRATEGY
+## <a name="GRSS">// GRADING RUBRICS AND SCORING STRATEGY</a>
 
-##### **SCORING RUBRIC FOR HOMEWORK AND QUIZZES**
+### **SCORING RUBRIC FOR HOMEWORK AND QUIZZES**
+All homework assignments and quizzes are pass/fail. Incomplete and/or late assignments will receive half-credit. 
 
+* **(P) Pass** — The assignment or quiz was completed according to prompt. Full credit — 5 points. 
+
+* **(I) Incomplete/Late** — The assignment was either submitted incomplete, did not follow prompt, and/or was submitted late. 2.5 points. 
+
+* **(F) Fail** — Student did not submit assignment. 0 Points.
+
+
+### **SCORING RUBRIC FOR COURSE PROJECTS**
+The grant writing project (GP) is worth ten points and the final project (FP) is worth 20 points. Course projects will be graded using the following rubric: 
+
+* **(A) Excellent**	— Student completed project with outstanding or exceptional narrative and	perfect execution. GP: 10 Points / FP: 20 points
+
+* **(B) Good** — Student successfully met all project requirements with good narrative and great execution, but with some errors. GP: 8 Points / FP: 16 points
+	
+* **(C) Satisfactory**	— Student successfully met all project requirements with good narrative, but with multiple (more than 5) mistakes or errors in execution. GP: 6 Points / FP: 12 points
+ 
+* **(D) Passable** — Student met project requirements, but with poor narrative and excessive (more than 10) mistakes or errors in execution. GP: 4 Points / FP: 8 points
+ 
+* **(E) Poor** — Student did not meet all project requirements, but at least submitted a final deliverable. GP: 2 Points / FP: 4 points
+ 
+* **(F) Failure** Student did not submit a final deliverable. 0 points awarded
 
 
 ***
-###// OTHER GRADING POLICIES
+## <a name="OGP">// OTHER GRADING POLICIES</a>
 
 
-**GROUP WORK** — Group work is encouraged for homework assignments with the exception of the final project and/or specific assignments as noted by the instructor. If students choose to work as a group, they must include collaborators’ names on their assignment. Groups are limited to 3 students.
+**GROUP WORK** — Group work is encouraged for homework assignments and take-home quizzes unless otherwise noted by the instructor. If students work in a group, students must include collaborators' names on assessment submissions. 
 
-**LATE WORK** — Homework assignments are due at the start of class. Check the course schedule for assignment due dates. Late assignments may be submitted up to two days after due date and will receive an automatic (I) grade. Submission of a late final project will result in reduction of one letter grade.
+**LATE WORK** — Assessments are due at the start of class. Check the assignments folder for specific due dates. 
+
+Late assignments may be submitted up to two days after due date and will receive an automatic Incomplete grade. Submission of a late final project will result in reduction of one letter grade.
