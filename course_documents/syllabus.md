@@ -25,7 +25,7 @@ Office hours by reservation. Please use [this link](https://www.cloudhq.net/meet
 1. [Course Description](#cd)  
 1. [Course Framing](#cf)
 2. [Course Units and Semester Schedule](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)   
-1. [Assessments and Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
+1. [Assignments and Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
 1. [Other Class Policies](#ocp)
     
 
@@ -76,9 +76,9 @@ The units we will cover throughout the semester are frameworks, guidelines, skil
 #### — *Be Yourself*   
 Please consider this class a safe space, once a week, for three hours, to explore what you want to do with your life and creative practice. Ask the questions that are difficult, that feel dumb, or that feel intimidating to ask out loud. My goal in this class is not to turn you into the perfect businessperson, but to empower you.
  
-## <a name="agp">Assessments and Grading Policies</a>
+## <a name="agp">Assignments and Grading Policies</a>
 
-Please see: [Assessment and Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)
+Please see: [Assignments and Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)
 
 ## <a name="ocp">Other Class Policies</a>
 ### // ATTENDANCE POLICY
