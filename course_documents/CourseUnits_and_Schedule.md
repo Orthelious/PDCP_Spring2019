@@ -1,4 +1,4 @@
-#Course Units and Semester Schedule
+# Course Units and Semester Schedule
 ###### TABLE OF CONTENTS
 1. **Units**
 	* [Unit 0 — Course Introduction](#0)
@@ -26,7 +26,7 @@
 	* [WEEK 16 — MAY 3, 2019](#16)
 	* [WEEK 17 — MAY 10, 2019](#17)
 
-##UNITS
+## UNITS
 
 _This course is organized into the following eight units. Units represent approximately 1 hour of class time._ 
 #### <a name="0">UNIT 0 — Course Introduction</a>
