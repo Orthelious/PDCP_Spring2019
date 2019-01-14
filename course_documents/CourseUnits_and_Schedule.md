@@ -99,8 +99,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [A.1]	Business Structures and Models   
 * [A.2]	Agency and the types of Employment   
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="2"> **WEEK 2**  — JANUARY 25, 2019</a>
@@ -110,8 +108,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [A.4]	Independent Contractors  
 * [B.1]	Introduction to Intellectual Property  
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="3">**WEEK 3**  — FEBRUARY 1, 2019</a>
@@ -121,8 +117,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [B.3]	Licensing and Royalties  
 * [B.4]	Permissions, Derivatives, and Fair Use  
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="4">**WEEK 4**  — FEBRUARY 8, 2019</a>
@@ -132,8 +126,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [C.2]	Contracting Basics  
 * [C.3]	Contract Analysis and Enforceability 
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="5">**WEEK 5**  — FEBRUARY 15, 2019</a>
@@ -143,8 +135,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.2]	Fundraising: Gifts and Debt Financing  
 * [D.3]	Fundraising: Grants   
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="6">**WEEK 6**  — FEBRUARY 22, 2019</a>
@@ -154,8 +144,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.5]	Earned Income: Services, Rates and Fees  
 * [D.6]	Proposal Writing and Budgeting Basics  
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="7">**WEEK 7**  — MARCH 1, 2019</a>
@@ -164,8 +152,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.7]	Managing Finances and Financial Planning  
 * [D.8]	Taxes 
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### **WEEK 8** — MARCH 8, 2019
@@ -189,8 +175,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [E.2]	Elements of Business Strategy and Market Analysis  
 * [E.3]	Long-term Planning  
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="12">**WEEK 12**  — APRIL 5, 2019</a>
@@ -202,10 +186,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 *Class Activity*
 
 * Business Plan Work Session
-
-*Assignments*  
-
-*Readings / viewings*
 ***
 
 ###### **WEEK 13**  — APRIL 12, 2019</a>
@@ -222,8 +202,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * Public Presentation Workshop
 * Business Plan Work Session
  
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="15">**WEEK 15**  — APRIL 26, 2019</a>
@@ -236,8 +214,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * Networking Workshop
 * Business Plan Work Session
 
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="16">**WEEK 16**  — MAY 3, 2019</a>
@@ -246,8 +222,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * Business Plan Work Session
    
-*Assignments*  
-*Readings / viewings*
 ***
 
 ###### <a name="17">**WEEK 17**  — MAY 10, 2019</a>
