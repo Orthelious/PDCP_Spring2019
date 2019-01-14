@@ -2,7 +2,7 @@
 ***
 omg. welcome to class!
 
-! [Bear](BearWave.gif)
+![Bear](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/images/BearWave.gif?raw=true)
 
 - CPPs
 - Degrees of difficulty
