@@ -22,7 +22,7 @@ He/Him/His
 [Syllabus](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/syllabus.md)  
 [Course Units and Semester Schedule](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)  
 [Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
-[Assignments](https://github.com/Orthelious/PDCP_Spring2019/tree/master/assessments)  
+[Assignments](https://github.com/Orthelious/PDCP_Spring2019/tree/master/assignments)  
 [Resources](https://github.com/Orthelious/PDCP_Spring2019/tree/master/resources)  
 
 ### // Course Description
