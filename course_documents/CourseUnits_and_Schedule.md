@@ -1,8 +1,21 @@
-#Course Units and Schedule
+#Course Units and Semester Schedule
+###### TABLE OF CONTENTS
+1. **Units**
+	* Unit 0 — Course Introduction
+	* Unit A — Business Structures, Agency, and Labor
+	* Unit B — Intellectual Property
+	* Unit C — Agreements and Contract Law
+	* Unit D — Finance
+	* Unit E — Business Planning
+	* Unit F — Communications
+	* Unit G — Interaction Skills
+
+1. **Semester Schedule**
 
 ##Units
+
 _This course is organized into the following eight units:_ 
-####UNIT 0	Course Introduction
+####UNIT 0 — Course Introduction
 [0.1]	Course Introduction and key concepts
 ####UNIT A	Business Structures, Agency, and Labor
 *Summary*:   
@@ -25,12 +38,12 @@ _This course is organized into the following eight units:_
 [C.3]	Contract Analysis and Enforceability  
 ####UNIT D	Finance
 [D.1]	Introduction to Financial Concepts  
-[D.2]	Fundrasising: Gifts and Debt Financing
+[D.2]	Fundrasising: Gifts and Debt Financing  
 [D.3]	Fundraising: Grants  
 [D.4]	Earned Income: Sales and Price   
-[D.5]	Earned Income: Services, Rates and Fees 
-[D.6]	Proposal Writing and Budgeting Basics 
-[D.7]	Managing Finances and Financial Planning
+[D.5]	Earned Income: Services, Rates and Fees  
+[D.6]	Proposal Writing and Budgeting Basics  
+[D.7]	Managing Finances and Financial Planning  
 [D.8]	Taxes  
 ####UNIT E	Business Planning
 [E.1]	Business Plans and Models  
