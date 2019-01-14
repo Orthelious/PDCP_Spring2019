@@ -12,8 +12,7 @@ _Tom Hughes_
 Associate Director, [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)  
 College of Fine Arts, Room 111  
 Contact: thughes@cmu.edu  
-Office Hours: By request  
-(He/Him/His) 
+He/Him/His 
 
 Office hours by reservation. Please use [this link](https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu)  to reserve a 30 minute time on my calendar: 
  
