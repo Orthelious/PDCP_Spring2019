@@ -1,4 +1,4 @@
-#Professional Development for Creative Practices
+# Professional Development for Creative Practices
 ##### Spring 2019
 
 Offered at the Carnegie Mellon University (CMU) [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)  
