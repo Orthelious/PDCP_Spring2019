@@ -217,7 +217,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ***
 
 ###### <a name="16">**WEEK 16**  — MAY 3, 2019</a>
-*Units covered:*
+*Units covered:*  
 *Class Activity*
 
 * Business Plan Work Session
@@ -225,5 +225,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ***
 
 ###### <a name="17">**WEEK 17**  — MAY 10, 2019</a>
+*Class Activity*  
 * *Final Presentations*
 ***
