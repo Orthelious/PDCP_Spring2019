@@ -22,7 +22,7 @@ Office hours by reservation. Please use [this link](https://www.cloudhq.net/meet
 * Canvas — Assignment submission and grading  
 * Email — General course updates  
 
-## Contents  
+### Contents  
 1. [Course Description](#cd)  
 1. [Course Framing](#cf)
 2. [Course Units and Semester Schedule](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)   
