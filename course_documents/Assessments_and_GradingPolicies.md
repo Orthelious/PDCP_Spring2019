@@ -6,7 +6,7 @@
 1. [Grading Rubrics and Scoring Strategy  ](#GRSS)
 1. [Other Grading Policies  ](#OGP)
 
-## <a name="AS">// Assignment STRUCTURE</a>  
+## <a name="AS">// ASSIGNMENT STRUCTURE</a>  
 Assements will be posted in the assignments folder
 
 _This course has four types of assignments:_  
