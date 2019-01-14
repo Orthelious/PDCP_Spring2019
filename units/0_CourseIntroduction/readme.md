@@ -2,7 +2,7 @@
 ***
 omg. welcome to class!
 
-![Bear](BearWave.gif)
+! [Bear](BearWave.gif)
 
 - CPPs
 - Degrees of difficulty
