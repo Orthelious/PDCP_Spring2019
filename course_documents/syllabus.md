@@ -25,8 +25,8 @@ Office hours by reservation. Please use [this link](https://www.cloudhq.net/meet
 ### Contents  
 1. [Course Description](#cd)  
 1. [Course Framing](#cf)
-2. [Course Units and Semester Schedule](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)   
-1. [Assessments and Grading Policies](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
+2. [Course Units and Semester Schedule](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)   
+1. [Assessments and Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
 1. [Other Class Policies](#ocp)
     
 
