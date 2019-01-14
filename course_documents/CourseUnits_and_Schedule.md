@@ -26,7 +26,7 @@
 	* [WEEK 16 — MAY 3, 2019](#16)
 	* [WEEK 17 — MAY 10, 2019](#17)
 
-## UNITS
+## // UNITS
 
 _This course is organized into the following eight units. Units represent approximately 1 hour of class time._ 
 #### <a name="0">UNIT 0 — Course Introduction</a>
@@ -73,60 +73,96 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 [D.8]	Taxes  
 ***
 #### <a name="e"> UNIT E — Business Planning</a>
-***Summary*** —   
+***Summary*** — The goal of this Unit is to present a surface level entry point into the world of strategic planning, business models, and market analysis. These high-level tools are focused on the forest, not the trees. We will use a series of frameworks to practice taking a nebulous idea and turning it into a realistic, actionable plan. We will focus in particular on Business Plans—for the final project of this course, all students will make and present an individual business plan.   
+
 [E.1]	Business Plans and Models  
 [E.2]	Elements of Business Strategy and Market Analysis  
 [E.3]	Long-term Planning  
 #### <a name="f">UNIT F — Communications</a>
-***Summary*** — 
+***Summary*** — How do we get our work in front of people? The *right* people? In short, this is the goal of marketing and communications. During this unit, we will go over the basics of marketing and communications strategies. Students will be introduced to frameworks and best practices essential to creating a successful marketing strategy for their practice.
+
 [F.1]	Marketing Basics  
 [F.2]	Public Relations and Media
 #### <a name="g">UNIT G — Interaction Skills</a>
-***Summary*** — Now that we have all out elements in place, it's time to form [Voltron](https://www.youtube.com/watch?v=tZZv5Z2Iz_s). 
+***Summary*** — You may have all the elements in place to have a successful creative practice, but 
 [G.1]	Presentation Skills  
 [G.2]	Networking  
 [G.3]	Negotiation 
 
-## SEMESTER SCHEDULE
+## // SEMESTER SCHEDULE
 
 ###### <a name="1">**WEEK 1**  — JANUARY 18, 2019</a>
-*Units covered:*  
+*Units covered:* 
+
+* [0.1]	Course Introduction and key concepts  
+* [A.1]	Business Structures and Models   
+* [A.2]	Agency and the types of Employment   
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="2"> **WEEK 2**  — JANUARY 25, 2019</a>
-*Units covered:*  
+*Units covered:* 
+
+* [A.3]	Human Resources and Labor Law   
+* [A.4]	Independent Contractors  
+* [B.1]	Introduction to Intellectual Property  
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="3">**WEEK 3**  — FEBRUARY 1, 2019</a>
-*Units covered:*  
+*Units covered:* 
+
+* [B.2]	IP Protections and Artists Rights  
+* [B.3]	Licensing and Royalties  
+* [B.4]	Permissions, Derivitives, and Fair Use  
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="4">**WEEK 4**  — FEBRUARY 8, 2019</a>
-*Units covered:*  
+*Units covered:* 
+
+* [C.1]	Standards for Legal Agreements  
+* [C.2]	Contracting Basics  
+* [C.3]	Contract Analysis and Enforceability 
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="5">**WEEK 5**  — FEBRUARY 15, 2019</a>
-*Units covered:*  
+*Units covered:*
+
+* [D.1]	Introduction to Financial Concepts  
+* [D.2]	Fundrasising: Gifts and Debt Financing  
+* [D.3]	Fundraising: Grants   
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="6">**WEEK 6**  — FEBRUARY 22, 2019</a>
-*Units covered:*  
+*Units covered:*
+
+* [D.4]	Earned Income: Sales and Price   
+* [D.5]	Earned Income: Services, Rates and Fees  
+* [D.6]	Proposal Writing and Budgeting Basics  
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="7">**WEEK 7**  — MARCH 1, 2019</a>
 *Units covered:*  
+
+* [D.7]	Managing Finances and Financial Planning  
+* [D.8]	Taxes 
+
 *Assignments*  
 *Readings / viewings*
 ***
@@ -139,17 +175,32 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ***
 
 ###### <a name="10">**WEEK 10**  — MARCH 22, 2019</a>
-**_GRANT PROPOSAL REVIEW PANEL_**
+*_GRANT PROPOSAL REVIEW PANEL_*
 ***
+
 ###### <a name="11">**WEEK 11**  — MARCH 29, 2019</a>
 *Units covered:*  
+
+* [E.1]	Business Plans and Models  
+* [E.2]	Elements of Business Strategy and Market Analysis  
+* [E.3]	Long-term Planning  
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="12">**WEEK 12**  — APRIL 5, 2019</a>
 *Units covered:*  
+
+* [F.1]	Marketing Basics  
+* [F.2]	Public Relations and Media
+
+*Class Activity*
+
+* Business Plan Work Session
+
 *Assignments*  
+
 *Readings / viewings*
 ***
 
@@ -159,18 +210,38 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 ###### <a name="14">**WEEK 14**  — APRIL 19, 2019</a>
 *Units covered:*  
+
+* [G.1]	Presentation Skills  
+
+*Class Activites:*
+
+* Public Presentation Workshop
+* Business Plan Work Session
+ 
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="15">**WEEK 15**  — APRIL 26, 2019</a>
 *Units covered:*  
+
+* [G.2]	Networking  
+
+*Class Activity*
+
+* Networking Workshop
+* Business Plan Work Session
+
 *Assignments*  
 *Readings / viewings*
 ***
 
 ###### <a name="16">**WEEK 16**  — MAY 3, 2019</a>
-*Units covered:*  
+*Units covered:*
+*Class Activity*
+
+* Business Plan Work Session
+   
 *Assignments*  
 *Readings / viewings*
 ***
