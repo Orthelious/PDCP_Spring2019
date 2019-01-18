@@ -1,13 +1,14 @@
 # [A.1]	Business Structures and Models
 
-*Three topics in this lecture:*  
+*Two topics in this lecture:*  
 
 1. [Introduction to business structures and models](#ibsm)
 1. [Common business structures](#cbs)  
 
 ## <a name="ibsm">Introduction to Business Structures and Models</a>
 
-You cannot conduct business in a vaccuum. You have to interact with others. But understanding exactly *who* you are conducting business with can be opaque without a basic understanding of business structures.
+You cannot conduct business in a vaccuum. You *have* to interact with others. Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
+
 
 To start making sense of things, we need to answer two of the initial questions:
 
