@@ -8,7 +8,7 @@
 ## <a name="ibsm">Introduction to Business Structures and Models</a>
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_interaction.gif)
 
-You cannot conduct business in a vaccuum. You *have* to interact with others. Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
+You cannot conduct business in a vacuum. You *have* to interact with others. Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
 
 
 To start making sense of things, we need to answer two of the initial questions:
@@ -37,13 +37,13 @@ can I raise money?” and “What taxes do I owe?”
 ### — Business Models
 > What does the business ***do***?
 
-In it's simplest form, a good business model literally tells us what a business does. We're going to cover business models, and business plans, in-depth in *Unit E — Business Planning*. 
+In its simplest form, a good business model literally tells us what a business does. We're going to cover business models, and business plans, in-depth in *Unit E — Business Planning*. 
 
 
 *What is a business model?*
 
 * A design or strategy for how a business should operate. 
-* A business model describes what resoruces that are needed, how financing works, who the customers are, the likely sources of revenue, who the customers are, etc. 
+* A business model describes what resources that are needed, how financing works, who the customers are, the likely sources of revenue, who the customers are, etc. 
 * Here are some examples of business models in the for-profit sphere:
 	* *[What Is a Business Model? Business Models Explained](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)*
 
@@ -204,7 +204,7 @@ We're going to cover the following types of incorporation:
 	* Whole bunch of other tax options available.
 * MANAGEMENT
 	* Members or appointed officers (It’s flexible.)
-	* Defined by an Operating Agreements (Best preactice.)
+	* Defined by an Operating Agreements (Best practice.)
 * FUNDRAISING ABILITY
 	* Can sell interest (ownership) in the company.  
 
@@ -289,23 +289,22 @@ and are intended to have lives beyond their founders.
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_7.png)
 
 #### — BONUS STRUCTURES
-The business structures covered above are far and away to most common in US business. But there are many different structures availble (though not all are recognized in all 50 states).
+The business structures covered above are far and away to most common in US business, but there are many more structures available (though not all are recognized in all 50 states).
 
 *Here are just a few:*
 
-* Cooperatives
-* B Corps
-* Franchises
-* Joint Ventures
-* Close corporations
-* Limited Liability Partnership
-* Limited Liability Limited Partnership
-* Low-profit Limited Liability Company
-* Family Limited Liabilty Company
-* Trust
-* Syndicate
-* Joint Stock Company
-* Association
+* [Association](http://www.businessdictionary.com/definition/association.html)
+* [B Corps or Benefit Corporations](https://en.wikipedia.org/wiki/Benefit_corporation)
+* [Cooperatives](http://www.businessdictionary.com/definition/cooperative.html)
+* [Close corporations](http://www.businessdictionary.com/definition/closed-corporation.html)
+* [Family Limited Liabilty Company](https://www.dummies.com/business/start-a-business/the-family-limited-liability-company/)
+* [Franchises](http://www.businessdictionary.com/definition/franchise.html)
+* [Joint Stock Company](http://www.businessdictionary.com/definition/joint-stock-company.html)
+* [Joint Ventures](http://www.businessdictionary.com/definition/joint-venture-JV.html)
+* [Limited Liability Partnership](http://www.businessdictionary.com/definition/limited-liability-partnership-LLP.html)
+* [Limited Liability Limited Partnership](http://www.businessdictionary.com/definition/limited-liability-limited-partnership-LLLP.html)
+* [Low-profit Limited Liability Company](https://en.wikipedia.org/wiki/Low-profit_limited_liability_company)
+* [Trust](http://www.businessdictionary.com/definition/trust.html)
+* [Syndicate](http://www.businessdictionary.com/definition/syndicate.html)
 
-
-For the purposes of this course (and my sanity), we're going to stick to only the most comoon structures. 
+For the purposes of this course (and my sanity), we're going to stick to only the most common structures. 
