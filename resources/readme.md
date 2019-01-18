@@ -25,7 +25,6 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 * [B.4] Permissions, Derivitives, and Fair Use
 * [C.1] Standards for Legal Agreements
 * [C.2] Contracting Basics
-* [C.3] Contract Analysis and Enforceability
 * [D.1] Introduction to Financial Concepts
 * [D.2] Fundrasising: Gifts and Debt Financing 
 * [D.3] Fundraising: Grants
@@ -65,18 +64,16 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Artist Residencies
 * ResArtis
 * Alliance of Artist Communities
-* 
 
 ###### Government Websites to Bookmark
-[US Copyright Office](https://www.copyright.gov/)  
-[US Patent and Trademark Office](https://www.uspto.gov/)  
-[US Department of Labor](https://www.dol.gov/)  
-[Equal Employment Opportunity Commission](https://www.eeoc.gov/index.cfm)  
-[Internal Revenue Service](https://www.irs.gov/)
-[National Labor Relations Board](https://www.nlrb.gov/)  
-[Small Business Administration](https://www.sba.gov/)    
-[Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)
-
+* [US Copyright Office](https://www.copyright.gov/)  
+* [US Patent and Trademark Office](https://www.uspto.gov/)  
+* [US Department of Labor](https://www.dol.gov/)  
+* [Equal Employment Opportunity Commission](https://www.eeoc.gov/index.cfm)  
+* [Internal Revenue Service](https://www.irs.gov/)
+* [National Labor Relations Board](https://www.nlrb.gov/)  
+* [Small Business Administration](https://www.sba.gov/)    
+* [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)
 
 
 ## [0.1] Course Introduction and Key Concepts
@@ -120,10 +117,6 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Reccomended  
 ###### Of-Interest
 ## [C.2] Contracting Basics
-###### Cited Sources 
-###### Reccomended  
-###### Of-Interest
-## [C.3] Contract Analysis and Enforceability
 ###### Cited Sources 
 ###### Reccomended  
 ###### Of-Interest
