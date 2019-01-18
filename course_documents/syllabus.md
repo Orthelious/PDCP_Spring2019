@@ -59,22 +59,6 @@ Throughout this seminar-style course, students can expect to develop a starting 
 
 *Students are encouraged to hold Instructor to these same standards of etiquette.*
 
-### // A FEW GUIDING PHILOSOPHIES FOR THIS COURSE
-#### — *All Career Paths are Valid*
-There are going to be endless opinions that you will hear/have heard throughout your life on what makes a great artist, an amazing designer, or a brilliant architect. If you choose to adhere to these standards, that is your choice. We will not debate or discuss the best career path in this course. Likewise, we will consider career sucess to be however an individual student defines it for themselves. 
-
-If you want to work in a corporation, go for it. If you want to run an anti-capitalist social movement, do it. If you want to be an art world gallery star, rad. If you want to be a hermit in the woods, awesome. Any of the units we cover in this course can apply to whatever career direction you want to take, but we will not debate which is the best. 
-
-#### — *Think of Business like Cooking*
-I've spent a lot of time over the past year teaching myself to cook. One of my favorite books on the subject is [Salt Fat Acid Heat](https://www.simonandschuster.com/books/Salt-Fat-Acid-Heat/Samin-Nosrat/9781476753836) by Samin Nosrat. The basic premise is that mastering four basic factors will make food taste delicious. But these are just *elements* of good cooking. There is a world of amazing food that depends heavily on our culture, background, personal taste and preference—and our appetites.   
-
-Business is very much the same way. We're going to discuss how business works and go through many of the best practices—but how you best apply these factors to your practice depends on your background, your tastes, your needs.  
-
-#### — *The Correct Answers ≠ the Right Answers* 
-The units we will cover throughout the semester are frameworks, guidelines, skills, and concepts for achieving success in creative practices. These are not *rules*. So, while an answer may be *correct* and match best practices, that does not make it automatically the *right* answer for your practice. 
-
-#### — *Be Yourself*   
-Please consider this class a safe space, once a week, for three hours, to explore what you want to do with your life and creative practice. Ask the questions that are difficult, that feel dumb, or that feel intimidating to ask out loud. My goal in this class is not to turn you into the perfect businessperson, but to empower you.
  
 ## <a name="agp">Assignments and Grading Policies</a>
 
