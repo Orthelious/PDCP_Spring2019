@@ -39,7 +39,7 @@ Business models help us answer the second questions: what does a particular busi
 	* *[What Is a Business Model? Business Models Explained](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)*
  	
 We're going to cover business models, and business plans, in *Unit E — Business Planning*. 
-
+***
 
 ## <a name="cbs">Common Business Structures</a>  
 
@@ -69,7 +69,7 @@ All business structures can be identified by at least the following six elements
 *We're going to use this chart so we don't lose out minds:*
 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_None.png)
-
+***
 ### // 1. SOLE PROPRIETORSHIPS
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/MadMax_Sole.jpeg)
 
@@ -96,12 +96,70 @@ personal capital. Banks are wary of sole proprietorship because of liability.
 *Let's take a look at our chart*
 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_1.png)
-
+***
 ### // 2. PARTNERSHIPS
 We're going to cover two types of partnerships: ***General*** and ***Limited.***
 
 #### **— GENERAL PARTNERSHIPS**
-![]()
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_partnership.jpg)
+• OWNERSHIP:
+• Two or more people
+• Ownership can transfer to new partners (depends on partnership
+agreement.)
+• FORMATION: No real requirements, but should be created by a partnership
+agreement.
+• LIABILITY:
+• Unlimited personal liability for partners.
+• Partners are liable for each other!
+• TAXATION
+• Profits are evenly distributed to partners.
+• Taxed once. Taxes pass to individual.
+• MANAGEMENT
+• The partners are in charge.
+• A partnership agreement would spell this out.
+• There are some laws governing what a partner can do.
+• FUNDRAISING ABILITY
+• Very limited to none.
+• Partners contribute personal capital.
+
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_2.png)
 
 #### **— LIMITED PARTNERSHIPS**
-![]()
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_limited_partnership.jpg)
+• OWNERSHIP:
+• Two or more people.
+• There are General Partners (Major) and Limited Partners (Minor).
+• Ownership and transfers are defined by partnership agreement.
+• FORMATION
+• Created by a partnership agreement.
+• LIABILITY:
+• Unlimited personal liability for the General Partners.
+• Limited liability for the limited partners.
+• TAXATION
+• Profits are distributed to partners according to partnership agreement.
+• Taxed once. Taxes pass to individual.
+• General Partners pay self-employment tax.
+• MANAGEMENT
+• Often the General Partners are in charge, but Limited Partners have a say.
+• A partnership agreement would spell this out.
+• There are some laws governing what a partner can do.
+• FUNDRAISING ABILITY
+• Very limited to none.
+• Partners contribute personal capital.
+
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_3.png)
+***
+
+### // 3. CORPORATIONS!
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/MadMax_Incorporation.gif)
+
+Whereas sole proprietorships and partnerships can be formed instantaneously with a simple agreement, we're now crossing into the world of incorporation. The rest of the business structures we're going to cover have very specific filing and formation requirements. 
+
+We're going to cover the following types of incorporation:
+
+* Limited Liability Corporations
+* C Corporations
+* S Corporations
+* Non-Profit Organizations 
+
+#### **— LIMITED PARTNERSHIPS**
