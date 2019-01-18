@@ -1,4 +1,4 @@
-# [0.1] Course Introduction and key concepts
+# [0.1] Course Introduction and Key Concepts
 
 ### omg, welcome to class!
 
@@ -65,7 +65,7 @@ Heinz College, Carnegie Mellon University
 
 *** 
 ### // 2. Course Framing and Approach
-* What is this course?
+* What is this Course?
 * Course Description
 * Learning Objectives
 * Prerequisite Knowledge
