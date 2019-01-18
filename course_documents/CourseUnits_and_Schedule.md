@@ -58,7 +58,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 [C.1]	Standards for Legal Agreements  
 [C.2]	Contracting Basics  
-[C.3]	Contract Analysis and Enforceability 
+
 *** 
 #### <a name="d">UNIT D — Finance</a>
 ***Summary*** — One of the trickiest and often hardest questions to answer in creative practices: *How will we pay for it?* Over the course of this unit we will cover the high-level basics to financing your ideas, methods for generating income and best practices for managing your finances. Topic will include the common methods of fundraising; how to set market-competitive prices for your work and services; best practices for proposal writing; long-term planning for your financial future; and delving into the intimidating world of taxes (it's really not that bad!). 
@@ -95,36 +95,35 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="1">**WEEK 1**  — JANUARY 18, 2019</a>
 *Units covered:* 
 
-* [0.1]	Course Introduction and key concepts  
-* [A.1]	Business Structures and Models   
-* [A.2]	Agency and the types of Employment   
+* [0.1]	Course Introduction and Key Concepts  
+* [A.1]	Business Structures and Models    
 
 ***
 
 ###### <a name="2"> **WEEK 2**  — JANUARY 25, 2019</a>
 *Units covered:* 
 
+* [A.2]	Agency and the types of Employment  
 * [A.3]	Human Resources and Labor Law   
 * [A.4]	Independent Contractors  
-* [B.1]	Introduction to Intellectual Property  
 
 ***
 
 ###### <a name="3">**WEEK 3**  — FEBRUARY 1, 2019</a>
 *Units covered:* 
 
+* [B.1]	Introduction to Intellectual Property  
 * [B.2]	IP Protections and Artists Rights  
-* [B.3]	Licensing and Royalties  
-* [B.4]	Permissions, Derivatives, and Fair Use  
+* [B.3]	Licensing and Royalties   
 
 ***
 
 ###### <a name="4">**WEEK 4**  — FEBRUARY 8, 2019</a>
 *Units covered:* 
 
+* [B.4]	Permissions, Derivatives, and Fair Use 
 * [C.1]	Standards for Legal Agreements  
 * [C.2]	Contracting Basics  
-* [C.3]	Contract Analysis and Enforceability 
 
 ***
 
@@ -132,8 +131,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 *Units covered:*
 
 * [D.1]	Introduction to Financial Concepts  
-* [D.2]	Fundraising: Gifts and Debt Financing  
-* [D.3]	Fundraising: Grants   
+* [D.2]	Fundraising: Gifts and Debt Financing   
+* [D.3]	Fundraising: Grants  
 
 ***
 
