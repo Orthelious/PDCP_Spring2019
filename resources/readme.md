@@ -47,25 +47,28 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 This area is a bit of a dumping ground for website-in-whole that don't easily fit into my course unit schema. 
 
 ###### Generally Good Websites to Follow:
-*	[Getting Your Shit Together](https://www.gyst-ink.com/)
-* Fractured Atlas 
+* [Getting Your Shit Together](https://www.gyst-ink.com/)
+* [Art F City](http://artfcity.com/) 
+* [Creative Applications](http://www.creativeapplications.net)
+* [Fractured Atlas ](https://www.fracturedatlas.org/)
 * [The Creative Independent](https://thecreativeindependent.com/)
 * [Chicago Artists Resource](http://www.chicagoartistsresource.org/)
-* Artnet
-* Artsy
-* Americans for the Arts
-* National Endowment for the Arts
-* National Endowment for the Humanities
+* [Artnet](http://www.artnet.com/)
+* [Artsy](https://www.artsy.net/)
+* [Americans for the Arts](https://www.americansforthearts.org/)
+
 
 
 ###### Arts Councils and State Arts Agencies
 [National Assembly of State Arts Agencies](https://nasaa-arts.org/)
 
-###### Artist Residencies
-* ResArtis
-* Alliance of Artist Communities
+###### Artist Residency Aggregators
+* [ResArtis](http://www.resartis.org/en/)
+* [Alliance of Artist Communities](http://www.artistcommunities.org/)
 
 ###### Government Websites to Bookmark
+* [National Endowment for the Arts](https://www.arts.gov/)
+* [National Endowment for the Humanities](https://www.neh.gov/)
 * [US Copyright Office](https://www.copyright.gov/)  
 * [US Patent and Trademark Office](https://www.uspto.gov/)  
 * [US Department of Labor](https://www.dol.gov/)  
@@ -78,6 +81,12 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 
 ## [0.1] Course Introduction and Key Concepts
 ###### Cited Sources 
+* [Mike Monteiro "Fuck You, Pay Me"](https://youtu.be/6h3RJhoqgK8?t=60)
+* [Charles and Ray Eames, Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0)
+* [Salt Fat Acid Heat](https://www.simonandschuster.com/books/Salt-Fat-Acid-Heat/Samin-Nosrat/9781476753836)
+* [Vanessa German](http://pavelzoubok.com/artist/vanessa-german/)
+* [Hyphen Labs](http://www.hyphen-labs.com/)*
+* [Olafur Eliasson](https://olafureliasson.net/) 
 ###### Reccomended  
 ###### Of-Interest
 ## [A.1] Business Structures and Models
