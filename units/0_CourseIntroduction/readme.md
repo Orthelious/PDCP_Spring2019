@@ -52,7 +52,7 @@ Heinz College, Carnegie Mellon University
 * [Bachelor of Fine Arts](https://www.bgsu.edu/arts-and-sciences.html) (BFA), 2008   
 	Bowling Green State University
 * A few of the places I've worked for and worked with:  
-[Assemble](http://assemblepgh.org/), [Attack Theatre](https://www.attacktheatre.com/),[ATONATON](https://atonaton.com/), [Bunker Projects](http://www.bunkerprojects.org/), [Contemporary Craft](https://contemporarycraft.org/) [Conflict Kitchen](https://www.conflictkitchen.org/), [The Drift](http://www.the-drift.org/), T[he Mattress Factory](https://www.mattress.org/), [The Processing Foundation](https://processingfoundation.org/), [Prototype](https://prototypepgh.com/), [VIA Festival](http://www.via-festival.com/), [The Wick Editor](http://wickeditor.com/). 
+[Assemble](http://assemblepgh.org/), [Attack Theatre](https://www.attacktheatre.com/), [ATONATON](https://atonaton.com/), [Bunker Projects](http://www.bunkerprojects.org/), [Contemporary Craft](https://contemporarycraft.org/) [Conflict Kitchen](https://www.conflictkitchen.org/), [The Drift](http://www.the-drift.org/), T[he Mattress Factory](https://www.mattress.org/), [The Processing Foundation](https://processingfoundation.org/), [Prototype](https://prototypepgh.com/), [VIA Festival](http://www.via-festival.com/), [The Wick Editor](http://wickeditor.com/). 
 
 
 ###### WHO ARE YOU?
@@ -60,7 +60,7 @@ Heinz College, Carnegie Mellon University
 
 1. Your name?  
 1. Your pronouns?  
-1. What kind of creative practioner are you?  
+1. What kind of creative practitioner are you?  
 1. Why did you sign up for this here course?  
 
 *** 
@@ -68,10 +68,10 @@ Heinz College, Carnegie Mellon University
 * What is this course?
 * Course Description
 * Learning Objectives
-* Prequisite Knowledge
+* Prerequisite Knowledge
 * Class Etiquette
 * Our Approach
-* A Few Guiding Philosphies for this Course
+* A Few Guiding Philosophies for this Course
 * Degrees of Difficulty & Orders of Magnitude 
 
 #### — WHAT IS THIS COURSE?
@@ -111,17 +111,17 @@ Throughout this seminar-style course, students can expect to develop a starting 
 *Students are encouraged to hold Instructor to these same standards of etiquette.*
 
 #### — OUR APPROACH
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/Eams_PowersofTen.gif)
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/Eams_PowersofTen.gif)  
 [Charles and Ray Eames, Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 
 * We're taking the 20,0000 foot view in this course. 
 * We're going to cover a lot of ground, very quickly. 
-* Units will cover the essense of topics in business and professionlism and how they relate to creative practices. 
+* Units will cover the essence of topics in business and professionalism and how they relate to creative practices. 
 * If there are topics you want to delve more deeply into, I am happy to suggest further readings or courses. 
 
 #### — A FEW GUIDING PHILOSOPHIES FOR THIS COURSE
 #### » *All Career Paths are Valid*
-There are going to be endless opinions that you will hear/have heard throughout your life on what makes a great artist, an amazing designer, or a brilliant architect. If you choose to adhere to these standards, that is your choice. We will not debate or discuss the best career path in this course. Likewise, we will consider career sucess to be however an individual student defines it for themselves. 
+There are going to be endless opinions that you will hear/have heard throughout your life on what makes a great artist, an amazing designer, or a brilliant architect. If you choose to adhere to these standards, that is your choice. We will not debate or discuss the best career path in this course. Likewise, we will consider career success to be however an individual student defines it for themselves. 
 
 If you want to work in a corporation, go for it. If you want to run an anti-capitalist social movement, do it. If you want to be an art world gallery star, rad. If you want to be a hermit in the woods, awesome. Any of the units we cover in this course can apply to whatever career direction you want to take, but we will not debate which is the best. 
 
@@ -156,12 +156,12 @@ This is the starting point. It is approaching business with only your interests 
 	![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/german.png)
 	*My example: [Vanessa German](http://pavelzoubok.com/artist/vanessa-german/)*
 
-* **The Small Group** — In this OoM, the focus is on how to form a working group and operate at the small business level. What business structures will work best? How are decisions made? What if the relationship between group members sours?
+* **The Small Group** — In this OoM, the focus is on how to form a working group and operate at the small business level. What business structures will work best? How are decisions made? What if the relationship between group members sours?  
 	![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/hypehnlabs.png)
 	*My example: [Hyphen Labs](http://www.hyphen-labs.com/)*
 
 
-* **The Large Group** — To differentiate this from the Small Group, we’re going to consider a large group to be more than 50 employees/members. How are decisions made when working within a large corporation? What effect does massive size have on conducting business? 
+* **The Large Group** — To differentiate this from the Small Group, we’re going to consider a large group to be more than 50 employees/members. How are decisions made when working within a large corporation? What effect does massive size have on conducting business?   
 	![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/olafur.png)
 	*My example: [Olafur Eliasson](https://olafureliasson.net/)*
 
@@ -178,7 +178,7 @@ This is the starting point. It is approaching business with only your interests 
 ***
 ### // 4. Semester Schedule and Course Unit Overview
 
-*Now, let's take a look at what we will be tackiling this semester:*
+*Now, let's take a look at what we will be tackling this semester:*
 
 * [Course Units and Semester Schedule](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)
 
