@@ -11,13 +11,13 @@
 You cannot conduct business in a vacuum. You *have* to interact with others. Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
 
 
-To start making sense of things, we need to answer two of the initial questions:
+To start making sense of things, we need to answer two initial questions:
 
-* What ***kind*** of business?
+* What ***kind*** of business are we dealing with?
 * What does the business ***do***?
 
 ### — Business Structures
-> What ***kind*** of business?
+> What ***kind*** of business are we dealing with?
 
 Understanding how a business is structured helps understand what *kind* of business we are dealing with. 
 
@@ -76,7 +76,7 @@ All business structures can be identified by at least the following six elements
 * **MANAGEMENT** — Who makes decisions?
 * **FUNDRAISING ABILITY** — Determines the ways you can raise funds (Shares, stock, grants, gifts)
 
-*We're going to use this chart so we don't lose out minds:*
+*We're going to use this chart so we don't lose our minds:*
 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_None.png)
 ***
@@ -116,25 +116,26 @@ We're going to cover two types of partnerships: ***General*** and ***Limited.***
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_partnership.jpg)
 > A General Partnership is composed of 2 or more persons (usually not a married couple) who agree to contribute money, labor, or skill to a business. Each partner shares the profits, losses, and management of the business, and each partner is personally and equally liable for debts of the partnership. Formal terms of the partnership are usually contained in a written partnership agreement. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
-• OWNERSHIP:
-• Two or more people
-• Ownership can transfer to new partners (depends on partnership
+* OWNERSHIP:
+	* Two or more people
+	* Ownership can transfer to new partners (depends on partnership
 agreement.)
-• FORMATION: No real requirements, but should be created by a partnership
+* FORMATION: 
+	* No real requirements, but should be created by a partnership
 agreement.
-• LIABILITY:
-• Unlimited personal liability for partners.
-• Partners are liable for each other!
-• TAXATION
-• Profits are evenly distributed to partners.
-• Taxed once. Taxes pass to individual.
-• MANAGEMENT
-• The partners are in charge.
-• A partnership agreement would spell this out.
-• There are some laws governing what a partner can do.
-• FUNDRAISING ABILITY
-• Very limited to none.
-• Partners contribute personal capital.
+* LIABILITY:
+	* Unlimited personal liability for partners.
+	* Partners are liable for each other!
+* TAXATION
+	* Profits are evenly distributed to partners.
+	* Taxed once. Taxes pass to individual.
+* MANAGEMENT
+	* The partners are in charge.
+	* A partnership agreement would spell this out.
+	* There are some laws governing what a partner can do.
+* FUNDRAISING ABILITY
+	* Very limited to none.
+	* Partners contribute personal capital.
 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_2.png)
 
@@ -143,26 +144,26 @@ agreement.
 > A Limited Partnership is composed of one or more general partners and one or more limited partners. The general partners manage the business and share fully in its profits and losses. Limited partners share in the profits of the business, but their losses are limited to the extent of their investment. Limited partners are usually not involved in the day-to-day operations of the business. [[source]](https://bls.dor.wa.gov/ownershipstructures.aspx)
 
 
-• OWNERSHIP:
-• Two or more people.
-• There are General Partners (Major) and Limited Partners (Minor).
-• Ownership and transfers are defined by partnership agreement.
-• FORMATION
-• Created by a partnership agreement.
-• LIABILITY:
-• Unlimited personal liability for the General Partners.
-• Limited liability for the limited partners.
-• TAXATION
-• Profits are distributed to partners according to partnership agreement.
-• Taxed once. Taxes pass to individual.
-• General Partners pay self-employment tax.
-• MANAGEMENT
-• Often the General Partners are in charge, but Limited Partners have a say.
-• A partnership agreement would spell this out.
-• There are some laws governing what a partner can do.
-• FUNDRAISING ABILITY
-• Very limited to none.
-• Partners contribute personal capital.
+* OWNERSHIP:
+	* Two or more people.
+	* There are General Partners (Major) and Limited Partners (Minor).
+	* Ownership and transfers are defined by partnership agreement.
+* FORMATION
+	* Created by a partnership agreement.
+* LIABILITY:
+	* Unlimited personal liability for the General Partners.
+	* Limited liability for the limited partners.
+* TAXATION
+	* Profits are distributed to partners according to partnership agreement.
+	* Taxed once. Taxes pass to individual.
+	* General Partners pay self-employment tax.
+* MANAGEMENT
+	* Often the General Partners are in charge, but Limited Partners have a say.
+	* A partnership agreement would spell this out.
+	* There are some laws governing what a partner can do.
+* FUNDRAISING ABILITY
+	* Very limited to none.
+	* Partners contribute personal capital.
 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_3.png)
 ***
@@ -308,3 +309,5 @@ The business structures covered above are far and away to most common in US busi
 * [Syndicate](http://www.businessdictionary.com/definition/syndicate.html)
 
 For the purposes of this course (and my sanity), we're going to stick to only the most common structures. 
+
+~fin~
