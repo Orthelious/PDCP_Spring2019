@@ -14,7 +14,7 @@ College of Fine Arts, Room 111
 Contact: thughes@cmu.edu  
 He/Him/His 
 
-Office hours by reservation. Please use [this link](https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu)  to reserve a 30 minute time on my calendar: 
+Office hours by reservation. Please use [this link](https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu)  to reserve a 30 minute time on my calendar:https://www.cloudhq.net/meeting/thughes@andrew.cmu.edu 
  
 ###### // COMMUNICATION TOOLS
 * GitHub — Course documents, lectures and resources   
