@@ -6,6 +6,7 @@
 1. [Common business structures](#cbs)  
 
 ## <a name="ibsm">Introduction to Business Structures and Models</a>
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_interaction.gif)
 
 You cannot conduct business in a vaccuum. You *have* to interact with others. Understanding exactly *who* you are conducting business with is one of the first steps to empowering yourself in everyday business interactions.
 
@@ -16,6 +17,8 @@ To start making sense of things, we need to answer two of the initial questions:
 * What does the business ***do***?
 
 ### — Business Structures
+> What ***kind*** of business?
+
 Understanding how a business is structured helps understand what *kind* of business we are dealing with. 
 
 *What is a business structure?*
@@ -29,17 +32,23 @@ can I raise money?” and “What taxes do I owe?”
 “Business Entities,” “Organizational Structures,” “Operating Models,”
 “Business Licenses,“ and ”Business Types.”
 
+*What are some examples from creative practices?*
+
 ### — Business Models
-Business models help us answer the second questions: what does a particular business do? 
+> What does the business ***do***?
+
+In it's simplest form, a good business model literally tells us what a business does. We're going to cover business models, and business plans, in-depth in *Unit E — Business Planning*. 
+
 
 *What is a business model?*
 
 * A design or strategy for how a business should operate. 
-* A business model describes what resoruces are needed, how financing works, who the customers are, the likely sources of revenue, who the customers are, etc. 
+* A business model describes what resoruces that are needed, how financing works, who the customers are, the likely sources of revenue, who the customers are, etc. 
 * Here are some examples of business models in the for-profit sphere:
 	* *[What Is a Business Model? Business Models Explained](https://articles.bplans.com/what-is-a-business-model-business-models-explained/)*
- 	
-We're going to cover business models, and business plans, in *Unit E — Business Planning*. 
+
+*What are some examples from creative practices?*
+
 ***
 
 ## <a name="cbs">Common Business Structures</a>  
@@ -57,6 +66,8 @@ Time to get down to business! (groan. I'll see myself out).
 ...*but first*
 
 ### // HOW TO DIFFERENTIATE BUSINESS STRUCTURES
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/madmax_tellingapart.gif)
+
 All business structures can be identified by at least the following six elements:
 
 * **OWNERSHIP** — # of people/owners; Can that ownership be transferred?
