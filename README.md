@@ -19,11 +19,12 @@ Office Hours: By request
 He/Him/His  
 
 ### // Quick Links
-[Syllabus](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/syllabus.md)  
-[Course Units and Semester Schedule](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)  
-[Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
-[Assignments](https://github.com/Orthelious/PDCP_Spring2019/tree/master/assignments)  
-[Resources](https://github.com/Orthelious/PDCP_Spring2019/tree/master/resources)  
+* [Syllabus](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/syllabus.md)  
+* [Course Units and Semester Schedule](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/CourseUnits_and_Schedule.md)  
+* [Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md) 
+* [Lectures](https://github.com/Orthelious/PDCP_Spring2019/tree/master/units) 
+* [Assignments](https://github.com/Orthelious/PDCP_Spring2019/tree/master/assignments)  
+* [Resources](https://github.com/Orthelious/PDCP_Spring2019/tree/master/resources)  
 
 ### // Course Description
 This course is intended to expose students studying in creative fields to the basic principles, skills and functions of business used every day in creative practices and industries. Supporting a creative practice - whether an individual studio practice, a temporary collaboration or commission, or an incorporated business or non-profit - all require a foundational knowledge of basic organizational, legal, and financial structures and practices.
