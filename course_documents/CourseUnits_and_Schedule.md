@@ -32,7 +32,7 @@ _This course is organized into the following eight units and sub-topics. Sub-top
 #### <a name="0">UNIT 0 — Course Introduction</a>
 ***Summary*** — During this first unit of the course, we will review the syllabus, expectations and resources for the course. This unit also includes some framing devices for this course such as Creative Practitioner Profiles and Degrees of Difficulty. 
 
-[0.1]	Course Introduction and key concepts
+[[0.1]	Course Introduction and key concepts](https://github.com/Orthelious/PDCP_Spring2019/tree/master/units/0_CourseIntroduction)
 ***
 
 #### <a name="a">UNIT A	Business Structures, Agency, and Labor</a>
@@ -95,8 +95,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="1">**WEEK 1**  — JANUARY 18, 2019</a>
 *Units covered:* 
 
-* [0.1]	Course Introduction and Key Concepts  
-* [A.1]	Business Structures and Models    
+* [[0.1]	Course Introduction and Key Concepts](https://github.com/Orthelious/PDCP_Spring2019/tree/master/units/0_CourseIntroduction)  
+* [[A.1]	Business Structures and Models](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a1_BusinessStructuresAndModels.md)    
 
 ***
 

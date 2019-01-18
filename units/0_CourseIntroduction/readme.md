@@ -34,12 +34,12 @@ Office hours by reservation. Please use [this link](https://www.cloudhq.net/meet
 ***
 
 ## Four Sections in this Unit:
-1. Introductions
-2. Course Framing and Approach
-3. Overview of Syllabus Administrata
-4. Semester Schedule and Course Unit Overview
+1. [Introductions](#intro)
+2. [Course Framing and Approach](#framing)
+3. [Overview of Syllabus Administrata](#overview)
+4. [Semester Schedule and Course Unit Overview](#semester)
 
-### // 1. Introductions
+### <a name="intro">// 1. Introductions</a>
 
 ###### WHO AM I?
 Tom Hughes
@@ -64,7 +64,7 @@ Heinz College, Carnegie Mellon University
 1. Why did you sign up for this here course?  
 
 *** 
-### // 2. Course Framing and Approach
+### <a name="framing">// 2. Course Framing and Approach</a>
 * What is this Course?
 * Course Description
 * Learning Objectives
@@ -167,7 +167,7 @@ This is the starting point. It is approaching business with only your interests 
 
 ***
 
-### // 3. Overview of Syllabus Administrata
+### <a name="overview">// 3. Overview of Syllabus Administrata</a>
 
 *Let's head over the the syllabus to review our other class policies:*
 
@@ -176,7 +176,7 @@ This is the starting point. It is approaching business with only your interests 
 * [60-350 Assignments and Grading Policies](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Assessments_and_GradingPolicies.md)  
 
 ***
-### // 4. Semester Schedule and Course Unit Overview
+### <a name="semester">// 4. Semester Schedule and Course Unit Overview</a>
 
 *Now, let's take a look at what we will be tackling this semester:*
 
