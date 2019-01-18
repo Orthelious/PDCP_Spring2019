@@ -16,7 +16,7 @@ To start making sense of things, we need to answer two of the initial questions:
 * What does the business ***do***?
 
 ### — Business Structures
-Understanding how a business is structured helps us answer the first question of what kind of business we are dealing with. 
+Understanding how a business is structured helps understand what *kind* of business we are dealing with. 
 
 *What is a business structure?*
 
@@ -154,6 +154,8 @@ agreement.
 ### // 3. CORPORATIONS!
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/MadMax_Incorporation.gif)
 
+> "Mo' people, mo' problems" — Tom Hughes
+
 Whereas sole proprietorships and partnerships can be formed instantaneously with a simple agreement, we're now crossing into the world of incorporation. The rest of the business structures we're going to cover have very specific filing and formation requirements. 
 
 We're going to cover the following types of incorporation:
@@ -163,4 +165,25 @@ We're going to cover the following types of incorporation:
 * S Corporations
 * Non-Profit Organizations 
 
-#### **— LIMITED PARTNERSHIPS**
+#### **— LLC (LIMITED LIABILITY COMPANY)**
+• OWNERSHIP:
+• One or more people.
+• Transfer of ownership possible.
+• Combines elements of Corporations and Sole Proprietorships/Partnerships.
+• FORMATION:
+• File Articles of Incorporation with the state government.
+• LIABILITY:
+• LIMITED!!
+• Personal assets are considered separate from business assets.
+• LLC’s are popular because of the protections and flexibility they offer.
+• TAXATION
+• Taxed once. Taxes pass to individual.
+• Individuals pay self-employment tax if employed.
+• Whole bunch of other tax options available.
+• MANAGEMENT
+• Members or appointed officers (It’s flexible.)
+• Defined by an Operating Agreements (Best preactice.)
+• FUNDRAISING ABILITY
+• Can sell interest (ownership) in the company.
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/BusiStruct_4.png)
+
