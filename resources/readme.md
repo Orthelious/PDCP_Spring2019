@@ -83,7 +83,7 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Cited Sources 
 * [Mike Monteiro "Fuck You, Pay Me"](https://youtu.be/6h3RJhoqgK8?t=60)
 * [Charles and Ray Eames, Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0)
-* [Salt Fat Acid Heat](https://www.simonandschuster.com/books/Salt-Fat-Acid-Heat/Samin-Nosrat/9781476753836)
+* [Salt Fat Acid Heat](https://www.simonandschuster.com/books/Salt-Fat-Acid-Heat/Samin-Nosrat/9781476753836) · Samin Nosrat
 * [Vanessa German](http://pavelzoubok.com/artist/vanessa-german/)
 * [Hyphen Labs](http://www.hyphen-labs.com/)*
 * [Olafur Eliasson](https://olafureliasson.net/) 
