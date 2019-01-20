@@ -107,6 +107,10 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [A.3]	Human Resources and Labor Law   
 * [A.4]	Independent Contractors  
 
+*Assignments:*
+
+* Quiz #1 
+
 ***
 
 ###### <a name="3">**WEEK 3**  — FEBRUARY 1, 2019</a>
