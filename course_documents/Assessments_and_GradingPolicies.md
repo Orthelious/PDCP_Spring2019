@@ -9,7 +9,7 @@
 ## <a name="AS">// ASSIGNMENT STRUCTURE</a>  
 Assements will be posted in the assignments folder
 
-_This course has four types of assignments:_  
+_This course has four types of assessments:_  
  
 * **Homework assignments** — Homework assignments will usually require group-work, online research and some level of analysis. Homework assignments are worth 5 points each and finished assignments will be discussed in class.
 
