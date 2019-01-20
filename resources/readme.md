@@ -14,8 +14,8 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 ### _Table of Contents_
 
 * [[0.0] MISCELLANEOUS](#00)
-* [0.1] Course Introduction and key concepts
-* [A.1] Business Structures and Models
+* [[0.1] Course Introduction and key concepts](#courseintro)
+* [[A.1] Business Structures and Models](#busstruct)
 * [A.2] Agency and the types of Employment
 * [A.3] Human Resources and Labor Law
 * [A.4] Independent Contractors
@@ -32,7 +32,7 @@ _Disclaimer: This is a living document that is constantly being updated and adde
 * [D.5] Earned Income: Services, Rates and Fees 
 * [D.6] Proposal Writing and Budgeting Basics 
 * [D.7] Managing Finances and Financial Planning 
-* [D.8] Taxes
+* [[D.8] Taxes](#taxes)
 * [E.1] Business Plans and Models
 * [E.2] Elements of Business Strategy and Market Analysis
 * [E.3] Long-term Planning
@@ -60,7 +60,7 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 
 
 ###### Arts Councils and State Arts Agencies
-[National Assembly of State Arts Agencies](https://nasaa-arts.org/)
+* [National Assembly of State Arts Agencies](https://nasaa-arts.org/)
 
 ###### Artist Residency Aggregators
 * [ResArtis](http://www.resartis.org/en/)
@@ -79,7 +79,7 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 * [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)
 
 
-## [0.1] Course Introduction and Key Concepts
+## <a name="courseintro">[0.1] Course Introduction and Key Concepts</a>
 ###### Cited Sources 
 * [Mike Monteiro "Fuck You, Pay Me"](https://youtu.be/6h3RJhoqgK8?t=60)
 * [Charles and Ray Eames, Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0)
@@ -87,12 +87,22 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 * [Vanessa German](http://pavelzoubok.com/artist/vanessa-german/)
 * [Hyphen Labs](http://www.hyphen-labs.com/)*
 * [Olafur Eliasson](https://olafureliasson.net/) 
+
 ###### Reccomended  
+
+###### Of-Interest  
+
+## <a name="busstruct">[A.1] Business Structures and Models</a>
+###### Cited Sources
+* [Types of Business Structures](https://bls.dor.wa.gov/ownershipstructures.aspx) · State of Washington Business Licensing Service
+* [Choose a Business Structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure) · US Small Business Administration
+
+###### Reccomended
+* [Open a Business Banking Account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account) · US Small Business Administration
+  
 ###### Of-Interest
-## [A.1] Business Structures and Models
-###### Cited Sources 
-###### Reccomended  
-###### Of-Interest
+* [What Is a Business Model? Business Models Explained](https://articles.bplans.com/what-is-a-business-model-business-models-explained/) · bplans.com
+
 ## [A.2] Agency and the types of Employment
 ###### Cited Sources 
 ###### Reccomended  
@@ -107,6 +117,9 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Of-Interest
 ## [B.1] Introduction to Intellectual Property
 ###### Cited Sources 
+* [Everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc) · Kirby Ferguson
+
+
 ###### Reccomended  
 ###### Of-Interest
 ## [B.2] IP Protections and Artists Rights
@@ -121,12 +134,18 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Cited Sources 
 ###### Reccomended  
 ###### Of-Interest
+* [On copyright law, plagiarism, and the imagination](https://thecreativeindependent.com/people/artist-nic-annette-miller-on-copyright-law-plagiarism-and-the-imagination/) · The Creative Independent
+
 ## [C.1] Standards for Legal Agreements
 ###### Cited Sources 
 ###### Reccomended  
 ###### Of-Interest
 ## [C.2] Contracting Basics
-###### Cited Sources 
+###### Cited Sources
+
+* [Artist Advice: Episode 00 | Work for Hire](https://www.youtube.com/watch?v=tkjBloxxWCM) · Shantell Martin 
+* [Law Insider ](https://www.lawinsider.com/) — *A searchable database of sample contracts* 
+
 ###### Reccomended  
 ###### Of-Interest
 ## [D.1] Introduction to Financial Concepts
@@ -157,9 +176,14 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Cited Sources 
 ###### Reccomended  
 ###### Of-Interest 
-## [D.8] Taxes
+## <a name="taxes">[D.8] Taxes</a>
 ###### Cited Sources 
+
+* [How Tax Brackets Acutally Work · Vox](https://www.vox.com/policy-and-politics/2019/1/7/18171975/tax-bracket-marginal-cartoon-ocasio-cortez-70-percent)
+
 ###### Reccomended  
+* [How to Register for a Sales Tax Permit in Every State · TaxJar](https://blog.taxjar.com/how-to-register-for-sales-tax-permits/) 
+
 ###### Of-Interest
 ## [E.1] Business Plans and Models
 ###### Cited Sources 
