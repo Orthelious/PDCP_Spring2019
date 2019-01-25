@@ -123,6 +123,10 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [B.2]	IP Protections and Artists Rights  
 * [B.3]	Licensing and Royalties   
 
+*Assignments:*
+
+* Homework #1 
+
 ***
 
 ###### <a name="4">**WEEK 4**  — FEBRUARY 8, 2019</a>
@@ -132,6 +136,9 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [C.1]	Standards for Legal Agreements  
 * [C.2]	Contracting Basics  
 
+*Assignments:*
+
+* Quiz #2 
 ***
 
 ###### <a name="5">**WEEK 5**  — FEBRUARY 15, 2019</a>
@@ -140,6 +147,11 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.1]	Introduction to Financial Concepts  
 * [D.2]	Fundraising: Gifts and Debt Financing   
 * [D.3]	Fundraising: Grants  
+
+*Assignments:*
+
+* Homework #2
+* Grant Proposal Project Assigned 
 
 ***
 
@@ -150,6 +162,9 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.5]	Earned Income: Services, Rates and Fees  
 * [D.6]	Proposal Writing and Budgeting Basics  
 
+*Assignments:*
+
+* Quiz #3 
 ***
 
 ###### <a name="7">**WEEK 7**  — MARCH 1, 2019</a>
@@ -158,6 +173,9 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.7]	Managing Finances and Financial Planning  
 * [D.8]	Taxes 
 
+*Assignments:*
+
+* Homework #3 (In-Class Assignment)
 ***
 
 ###### **WEEK 8** — MARCH 8, 2019
@@ -181,6 +199,10 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [E.2]	Elements of Business Strategy and Market Analysis  
 * [E.3]	Long-term Planning  
 
+*Assignments:*
+
+* Homework #4
+* Business Plan Project Assigned
 ***
 
 ###### <a name="12">**WEEK 12**  — APRIL 5, 2019</a>
@@ -188,6 +210,10 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * [F.1]	Marketing Basics  
 * [F.2]	Public Relations and Media
+
+*Assignments:*
+
+* Quiz #4 
 
 *Class Activity*
 
@@ -208,6 +234,10 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * Public Presentation Workshop
 * Business Plan Work Session
  
+*Assignments:*
+
+* Homework #5 (In-class activity)
+ 
 ***
 
 ###### <a name="15">**WEEK 15**  — APRIL 26, 2019</a>
@@ -220,12 +250,20 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * Networking Workshop
 * Business Plan Work Session
 
+*Assignments:*
+
+* Homework #6 
+
 ***
 
 ###### <a name="16">**WEEK 16**  — MAY 3, 2019</a>
-*Units covered:*  
+*Units covered:* 
+
+* [G.3] Negotiation
+ 
 *Class Activity*
 
+* Negotiation Workshop
 * Business Plan Work Session
    
 ***
