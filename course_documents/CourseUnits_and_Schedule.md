@@ -40,10 +40,13 @@ _This course is organized into the following eight units and sub-topics. Sub-top
 
 With that starting knowledge, we will dive head-first into Agency and Labor. Or simply put, "How to work with other people." We will go over the legal concept of agency and break down the systems that exist to employ others — and the ethics, laws and best practices that come with each method. 
  
-[[A.1]	Business Structures and Models  
-](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a1_BusinessStructuresAndModels.md)[A.2]	Agency and the types of Employment  
-[A.3]	Human Resources and Labor Law   
-[A.4]	Independent Contractors  
+* [[A.1]	Business Structures and Models  
+](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a1_BusinessStructuresAndModels.md)
+* [[A.2]	Agency and the types of Employment ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a2_AgencyAndTypesOfEmployment.md) 
+* [[A.3]	Human Resources and Labor Law ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a3_HumanResourcesandLaborLaw.md)  
+* [[A.4]	Independent Contractors  
+](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a4_IndependentContractors.md)
+ 
 ***
 #### <a name="b">UNIT B — Intellectual Property</a>
 ***Summary*** — As creative practitioners, we all participate in the act of intellectual property creation. Whether that’s for our own personal work, as part of our professional practice, or in service to an employer or client. But what is intellectual property? In this unit we will define the legal definitions of IP, the rights that you have, and IP protections such as patent, copyright, trademark, etc. From there, we will discuss how to share and monetize IP as a method for generating value. We will also explore the ways in which we can change, alter, rip, pirate, destroy, remix and recreate the work of others as a part of our creative process.

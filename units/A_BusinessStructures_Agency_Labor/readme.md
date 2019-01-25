@@ -3,7 +3,9 @@
 
 With that starting knowledge, we will dive head-first into Agency and Labor. Or simply put, "How to work with other people." We will go over the legal concept of agency and break down the systems that exist to employ others — and the ethics, laws and best practices that come with each method.
 
-[[A.1]	Business Structures and Models  ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a1_BusinessStructuresAndModels.md)  
-[[A.2]	Agency and the types of Employment  
-](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a2_AgencyAndTypesOfEmployment.md)[A.3]	Human Resources and Labor Law  
-[A.4]	Independent Contractors  
+* [[A.1]	Business Structures and Models  
+](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a1_BusinessStructuresAndModels.md)
+* [[A.2]	Agency and the types of Employment ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a2_AgencyAndTypesOfEmployment.md) 
+* [[A.3]	Human Resources and Labor Law ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a3_HumanResourcesandLaborLaw.md)  
+* [[A.4]	Independent Contractors  
+](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a4_IndependentContractors.md) 
