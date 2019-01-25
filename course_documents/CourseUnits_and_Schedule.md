@@ -106,9 +106,10 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="2"> **WEEK 2**  — JANUARY 25, 2019</a>
 *Units covered:* 
 
-* [A.2]	Agency and the types of Employment  
-* [A.3]	Human Resources and Labor Law   
-* [A.4]	Independent Contractors  
+* [[A.2]	Agency and the types of Employment ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a2_AgencyAndTypesOfEmployment.md) 
+* [[A.3]	Human Resources and Labor Law ](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a3_HumanResourcesandLaborLaw.md)  
+* [[A.4]	Independent Contractors  
+](https://github.com/Orthelious/PDCP_Spring2019/blob/master/units/A_BusinessStructures_Agency_Labor/a4_IndependentContractors.md) 
 
 *Assignments:*
 
