@@ -5,6 +5,7 @@
 1. [Relationships](#relationships)
 2. [Defining Agency](#agency)
 3. [The Essential Four Components](#four)
+4. [Addendum](#add)
 
 *In general, agency and labor boil down to one thing:* 
 ## <a name=relationships>Relationships</a>
@@ -167,4 +168,26 @@ You could be held responsible for your agent's actions!
 5. [A Subtlety · Kara Walker](https://www.youtube.com/watch?v=W2sedoeOiB8)
 7. [Fyre Festival · Billy McFarland & Ja Rule](https://www.youtube.com/watch?v=uZ0KNVU2fV0)
 8. [*Space Program · Tom Sachs* ](https://www.youtube.com/watch?v=fdXEe7VIfZk)
+
+## <a name="add">// Addendum</a>
+*This addendum includes a question from a student that the instructor had to research and report back to the class.*
+
+> "When employers discourage sharing wages, how does that function legally? I know there’s a degree of cultural stigma to keep in mind around asking people (coworkers or not) about their wages, but is there any factor of that that employers can enforce legally speaking, or any specific legal frameworks that employees or job applicants can use to work around and figure out what employees are actually making?"
+
+In short, the answer is that employees are protected in *most cases* to share their wage and salary information with each other. 
+
+This falls under the category of organizing and collective bargaining protected by the [National Labor Relations Board](https://www.nlrb.gov) under the National Labor Relations Act. I think this article on GovDocs gives the most concise and clear explanation I've found: 
+
+* [Can Employees Discuss Pay and Salaries?](https://www.govdocs.com/can-employees-discuss-pay-salaries/) · GovDocs
+ 
+*There are some exceptions and items to note:*
+
+* There are some types of government and organizations that do not fall under the NLRB protections. (The GovDocs article provides an explanation as to why). 
+* You are broadly protected to *freely discuss* salary or wage as part of organizing activity, but you *cannot force* your co-worker to reveal their salary. This would violate their privacy rights and also is just a real jerk move. 
+* Additionally, if you handle payroll or finances for your organization:
+
+	> An employee whose job function involves access to company wage and payroll information may not disclose employee pay information to other employees unless directed to by the employer or an investigating agency. [GovDocs]
+
+So, in most cases, an employer cannot create a company policy prohibiting employees from discussing pay. Importantly, this also applies to discussing **working conditions**—here's an example from the NLRB website: [Protected Concerted Activity. 
+](https://www.nlrb.gov/rights-we-protect/enforcement-activity/protected-concerted-activity)
 
