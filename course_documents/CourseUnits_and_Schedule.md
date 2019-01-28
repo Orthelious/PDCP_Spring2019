@@ -113,7 +113,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Quiz #1 
+* Quiz #1 — Due 2/1/19
 
 ***
 
@@ -126,7 +126,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Homework #1 
+* Homework #1 — Due 2/8/19
 
 ***
 
@@ -139,7 +139,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Quiz #2 
+* Quiz #2 — Due 2/15/19
+
 ***
 
 ###### <a name="5">**WEEK 5**  — FEBRUARY 15, 2019</a>
@@ -151,8 +152,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Homework #2
-* Grant Proposal Project Assigned 
+* Homework #2 — Due 2/22/19
+* Grant Proposal Project — Due 3/8/19 
 
 ***
 
@@ -165,7 +166,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Quiz #3 
+* Quiz #3 — Due 3/1/19
+
 ***
 
 ###### <a name="7">**WEEK 7**  — MARCH 1, 2019</a>
@@ -176,7 +178,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Homework #3 (In-Class Assignment)
+* Homework #3 — In-Class Assignment
+
 ***
 
 ###### **WEEK 8** — MARCH 8, 2019
@@ -202,8 +205,9 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Homework #4
-* Business Plan Project Assigned
+* Homework #4 — Due 4/5/19
+* Business Plan Project — Due 5/10/19  
+ 
 ***
 
 ###### <a name="12">**WEEK 12**  — APRIL 5, 2019</a>
@@ -214,11 +218,12 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Quiz #4 
+* Quiz #4 — Due 4/19/19
 
 *Class Activity*
 
 * Business Plan Work Session
+ 
 ***
 
 ###### **WEEK 13**  — APRIL 12, 2019</a>
@@ -234,10 +239,11 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * Public Presentation Workshop
 * Business Plan Work Session
+
  
 *Assignments:*
 
-* Homework #5 (In-class activity)
+* Homework #5 — In-class activity
  
 ***
 
@@ -253,7 +259,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Homework #6 
+* Homework #6 — Due 5/10/19
 
 ***
 
