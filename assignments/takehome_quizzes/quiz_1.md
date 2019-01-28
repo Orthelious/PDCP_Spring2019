@@ -1,4 +1,6 @@
 #Quiz #1
+### Due 2/1/19 @ 8:30 AM
+* Please submit quiz via Canvas.
 
 #### // *Relevant Units:*
 
