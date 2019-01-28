@@ -103,15 +103,23 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Of-Interest
 * [What Is a Business Model? Business Models Explained](https://articles.bplans.com/what-is-a-business-model-business-models-explained/) · bplans.com
 
-## [A.2] Agency and the types of Employment
+## <a name="a2">[A.2] Agency and the types of Employment</a>
 ###### Cited Sources 
+
 ###### Reccomended  
+
 ###### Of-Interest
+
 ## [A.3] Human Resources and Labor Law
 ###### Cited Sources 
 
 * [Can Employees Discuss Pay and Salaries? · GovDocs](https://www.govdocs.com/can-employees-discuss-pay-salaries/)
- 
+
+*Examples of local Pittsburgh Arts Organizations dealing with labor issues*
+
+* [National Labor Relations Board closes Mattress Factory probe](https://www.post-gazette.com/ae/art-architecture/2019/01/03/NLRB-closes-Mattress-Factory-investigation-Pittsburgh/stories/201901040026) · Pittsburgh Post-Gazette
+* [Former Kelly-Strayhorn employee sues theater, claims firing was retaliation](https://www.post-gazette.com/ae/theater-dance/2014/06/28/Former-Kelly-Strayhorn-employee-sues-claims-firing-was-retaliation/stories/201406280034) · Pittsburgh Post-Gazette
+* [Charlie Humphrey resigns as executive director of Pittsburgh Filmmakers/Pittsburgh Center for the Arts](https://www.post-gazette.com/local/city/2015/12/09/Charlie-Humphrey-resigns-as-executive-director-of-Pittsburgh-Filmmakers-Pittsburgh-Center-for-the-Arts/stories/201512090197) · Pittsburgh Post-Gazette
 
 ###### Reccomended  
 ###### Of-Interest
