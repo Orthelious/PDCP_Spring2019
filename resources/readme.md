@@ -109,6 +109,10 @@ This area is a bit of a dumping ground for website-in-whole that don't easily fi
 ###### Of-Interest
 ## [A.3] Human Resources and Labor Law
 ###### Cited Sources 
+
+* [Can Employees Discuss Pay and Salaries? · GovDocs](https://www.govdocs.com/can-employees-discuss-pay-salaries/)
+ 
+
 ###### Reccomended  
 ###### Of-Interest
 ## [A.4] Independent Contractors
