@@ -127,7 +127,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * [B.1]	Introduction to Intellectual Property  
 * [B.2]	IP Protections and Artists Rights  
-* [B.3]	Licensing and Royalties   
 
 *Assignments:*
 
@@ -138,6 +137,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="4">**WEEK 4**  — FEBRUARY 8, 2019</a>
 *Units covered:* 
 
+* [B.3]	Licensing and Royalties   
 * [B.4]	Permissions, Derivatives, and Fair Use 
 * [C.1]	Standards for Legal Agreements  
 * [C.2]	Contracting Basics  
