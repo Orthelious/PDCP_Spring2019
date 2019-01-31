@@ -18,18 +18,18 @@
 
 * The rights, priorities and privileges of your work.* The categories of laws and regulations that prevent unauthorized use byothers.
 
-Much like physical property, IP can be created, owned, traded, destroyed, transferred, stolen, borrowed, etc. The key distinction here is that it is property generated of the intellect...
+Much like physical property, IP can be created, owned, traded, destroyed, transferred, stolen, borrowed, etc. The key distinction here is that it is property that is generated of the intellect...
 
 ![Tim & Eric Awesome Show, Great Job! Episode 3 of season 4](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/tim-and-eric-mind-blown.gif)
 
-...and being intangible, needs it's own set of rules, guidelines, and regulations. IP helps define all of the ideas, processes, and plans associated with a piece of proerty, but not the property itself. 
+...and thus needs it's own set of rules, guidelines, and regulations. IP helps define all of the ideas, processes, and plans closely tied with a piece of property, but that can be seperated from the property itself. 
 
 ### — The Origin of IP
 I'm going to totally pull the laziness card and just play this section of the video essay "Everything is a Remix" by Kirby Ferguson. 
 
-https://youtu.be/nJPERZDfyWc?t=1459 {everything is a remix}
+[![everything is a remix](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_remix.png)](https://youtu.be/nJPERZDfyWc?t=1459)
 
-*Discalimer: I don't entirely agree with the position the athor makes towards the end of the video. the main value of this essay—for me—is the concise telling of the history of intellectual property*
+*Disclaimer: I don't entirely endorse with the position the author makes towards the end of the video.*
 
 
 ## // The Big Three in IP: Patent, Copyright, Trademark
@@ -73,6 +73,7 @@ There are a number of smaller, specific categories of IP in US law ([like plant 
 
 ##### — TOM WAIT'S "STEP RIGHT UP" & DORITOS
 
+[![Tom Waits](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_TomWaits.png)](http://mentalfloss.com/article/79648/when-tom-waits-sued-frito-lay-over-doritos-ad)
 
 *Listen for yourself:*  
 
@@ -83,7 +84,6 @@ There are a number of smaller, specific categories of IP in US law ([like plant 
  https://www.nytimes.com/2011/01/13/arts/design/13fairey.html 
  
 ##### — HEATHER DEWEY-HAGBORG'S "STRANGER VISIONS"
-Document your work well, because when a Hong Kong ad agency rips it off—you'll want to be able to prove who did it first. Major elements of Heather Dewey-Hagborg's much acclaimed work "Stranger Visions" was lifted and used in an bus stop ad campaing by Hong Kong Clean Up. 
 
 ##### — AI PAINTINGS
 
@@ -100,10 +100,6 @@ Document your work well, because when a Hong Kong ad agency rips it off—you'll
 ##### — LAURIE SPIEGAL "HARMONICES MUNDI"
 
 ##### — GIRL TALK
-As New York Magazine put it, Greg Gillis is a lawsuit waiting to happen. 
-- realeased albums for free 
-- Shamelessy sampled but artists are still credited
-- No one sued this guy?
 
 ##### — ESG
 
