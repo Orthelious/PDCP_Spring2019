@@ -17,3 +17,5 @@
 * To the best of your ability, describe the relationship and/or story behind the two tracks and how they relate to each other. (800 characters maximum)
 
 *We will review submission in class on 2/8*
+
+Assigned tracks can be viewed on Spotify here: [60350 IP Assignment](https://open.spotify.com/user/samohtsehguh/playlist/5s63hTIE8Gkq92u6czY4JF?si=LLz-ZrrUTRuUKm1F9uNyjA)
