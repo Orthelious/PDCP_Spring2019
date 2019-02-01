@@ -22,7 +22,7 @@ Much like physical property, IP can be created, owned, traded, destroyed, transf
 
 ![Tim & Eric Awesome Show, Great Job! Episode 3 of season 4](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/tim-and-eric-mind-blown.gif)
 
-...and thus needs it's own set of rules, guidelines, and regulations. IP helps define all of the ideas, processes, and plans closely tied with a piece of property, but that can be seperated from the property itself. 
+...and thus needs it's own set of rules, guidelines, and regulations. IP helps define all of the ideas, processes, and plans closely tied with a piece of property, but that can be separated from the property itself. 
 
 ### — The Origin of IP
 I'm going to totally pull the laziness card and just play this section of the video essay "Everything is a Remix" by Kirby Ferguson. 
@@ -33,7 +33,7 @@ I'm going to totally pull the laziness card and just play this section of the vi
 
 
 ## // The Big Three in IP: Patent, Copyright, Trademark
-There are a number of smaller, specific categories of IP in US law ([like plant species!](https://www.wipo.int/sme/en/documents/upov_plant_variety_fulltext.html)) For the purposes of this course, we're going to discuss the three major catories of IP:
+There are a number of smaller, specific categories of IP in US law ([like plant species!](https://www.wipo.int/sme/en/documents/upov_plant_variety_fulltext.html)) For the purposes of this course, we're going to discuss the three major categories of IP:
 
 * **Patents** — Protects specific inventions and related processes.* **Copyrights** — Protects “original works of authorship.”* **Trademark** — Protects names, phrases and symbols used in commerce.
 
@@ -59,10 +59,9 @@ There are a number of smaller, specific categories of IP in US law ([like plant 
 
 ***Your practice will be more successful if you understand:***
 * The difference between the IP that you do and do not own.
-* How to utlize the IP of others.* How you can protect your work.#### * How you can defend yourself and your work.
+* How to utilize the IP of others.* How you can protect your work.* How you can defend yourself and your work.
 
 ### *Examples In Creative Practices*
-
 
 ##### — A FEW FUN WEBSITES & ACCOUNTS
 * [Who Wore It Better?](http://who-wore-it-better.tumblr.com/)
@@ -81,28 +80,88 @@ There are a number of smaller, specific categories of IP in US law ([like plant 
 * [The Doritos Commercial](https://soundcloud.com/maddyunderstood/doritos-commercial-impersonator-by-tom-waits)
 
 ##### — SHEPARD FAIREY AND THE ASSOCIATED PRESS
- https://www.nytimes.com/2011/01/13/arts/design/13fairey.html 
- 
+[![Obama Hope Images](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_obamahope.jpg)](https://www.nytimes.com/2011/01/13/arts/design/13fairey.html)
+
+* [Shepard Fairey and The A.P. Settle Legal Dispute · The New York Times
+](https://www.nytimes.com/2011/01/13/arts/design/13fairey.html)
+* [Shepard Fairey admits lying about Obama poster · Phaidon](https://www.phaidon.com/agenda/art/articles/2012/september/10/shepard-fairey-admits-lying-about-obama-poster/)
+
+
 ##### — HEATHER DEWEY-HAGBORG'S "STRANGER VISIONS"
+[![strangervisions](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_DeweyHagborg.jpg)
+](https://deweyhagborg.com/projects/stranger-visions)  
 
-##### — AI PAINTINGS
+* [Heather Dewey-hagborg's *Stranger Visions*](https://deweyhagborg.com/projects/stranger-visions)
 
-##### — FAKE APPLE STORES
+[![HongKongCleanup](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_hongkongcleanup.jpg)](https://www.wired.com/2015/05/creepy-ads-use-litterbugs-dna-shame-publicly/)  
+* ["CREEPY ADS USE LITTERBUGS' DNA TO SHAME THEM PUBLICLY" · WIRED Magazine](https://www.wired.com/2015/05/creepy-ads-use-litterbugs-dna-shame-publicly/
+)
 
-##### — LED ZEPPELIN'S "BRING IT ON HOME" & WILLIE DIXON, SONNY BOY WILLIAMSON II
+##### — FIRST AI-GENERATED PAINTING SOLD AT AUCTION
+[![AIPaintints](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_AIpaitnings.png)](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)  
 
-##### — CARLY RAE JEPSEN'S "CALL ME MAYBE" & AZA'S "HUNKY SANTA
+* ["HOW THREE FRENCH STUDENTS USED BORROWED CODE TO PUT THE FIRST AI PORTRAIT IN CHRISTIE’S" · The Verge](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)
 
-##### — HARPER LEE "TO KILL A MOCKINGBIRD"
-
-##### — JOHN FOGERTY SUED FOR SOUNDING TOO MUCH LIKE JOHN FOGERTY
 
 ##### — LAURIE SPIEGAL "HARMONICES MUNDI"
+[![Spiegal](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_interstellarcontract.png)](https://www.newyorker.com/culture/culture-desk/the-interstellar-contract)  
+
+* ["The Interstellar Contract" · The New Yorker
+](https://www.newyorker.com/culture/culture-desk/the-interstellar-contract)
+
+##### — HARPER LEE "TO KILL A MOCKINGBIRD"
+![Harper Lee](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_harperless.png)  
+
+* ["Harper Lee Sues Agent Over Copyright on ‘Mockingbird’" · The New York Times](https://www.nytimes.com/2013/05/07/business/media/harper-lee-sues-agent-over-
+copyright-on-mockingbird.html?_r=1)
+
+##### — COPYCAT APPLE STORES
+![applestores](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_applesstores.png)  
+
+* [Chinese authorities find 22 fake Apple stores · BBC News
+](https://www.bbc.co.uk/news/technology-14503724)
+
+##### — LED ZEPPELIN'S "BRING IT ON HOME" 
+[![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_ledzeppelin.png)](https://youtu.be/nJPERZDfyWc?t=95)
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_sonnyboywilliamson.png)
+
+* [Everything is a Remix · Kirby Ferguson](https://youtu.be/nJPERZDfyWc?t=95)
+
+##### — CARLY RAE JEPSEN'S "CALL ME MAYBE" & AZA'S "HUNKY SANTA
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_callmemaybe.png)
+
+* [UKRAINIAN SINGER Suing Over 'Call Me Maybe' Carly Rae Stole My Song! · TMZ
+](http://www.tmz.com/2012/11/08/carly-rae-jepsen-call-me-maybe-aza-ukrainian-singer-lawsuit/#ixzz2CDyFi9vP)
+
+##### — GEORGE HARRISON "MY SWEET LORD"
+[![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_allthingsmust%20pass.png)  ](http://performingsongwriter.com/george-harrison-my-sweet-lord/)  
+
+* [George Harrison’s “My Sweet Lord” Copyright Case · performingsongwriter.com
+](http://performingsongwriter.com/george-harrison-my-sweet-lord/)
+* *Here's a great side-by-side comparison of the two songs:*  
+[My Sweet Lord vs. He's So Fine](https://www.youtube.com/watch?v=sYiEesMbe2I
+)
+
+##### — JOHN FOGERTY VS. JOHN FOGERTY
+[![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_johnfogerty.png)](http://mentalfloss.com/article/27501/time-john-fogerty-was-sued-ripping-john-fogerty)
+
+* [The Time John Fogerty Was Sued for Ripping Off John Fogerty · Mentalfloss
+](http://mentalfloss.com/article/27501/time-john-fogerty-was-sued-ripping-john-fogerty)
 
 ##### — GIRL TALK
+[![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_girltalk.png)](https://www.youtube.com/watch?v=kSoTN8suQ1o)
+
+* [Interview: Girl Talk a/k/a Gregg Gillis · The Village Voice
+](https://www.villagevoice.com/2008/11/14/interview-girl-talk-aka-gregg-gillis/
+)
+* *For fun, check out the full list of Gillis's samples used on his album "All Day":*  
+[http://illegal-art.net/allday/samples.html](http://illegal-art.net/allday/samples.html)
 
 ##### — ESG
-
+![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_esg.png)
+  
+* ESG's "UFO" has been sampled for over **500 songs**: [Who Sampled: UFO](https://www.whosampled.com/ESG/?fbclid=IwAR1HTgiLgEaW0D-bfM0tX3c9jv-lcGjisghVXBKbrxxEFIb6yDUQntysiVg)
+* [ESG turned 'accident' into music history · Chicago Tribune](https://www.chicagotribune.com/entertainment/music/ct-ott-esg-interview-0525-story.html)
 
 
 
