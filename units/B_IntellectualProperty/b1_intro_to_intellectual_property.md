@@ -112,8 +112,7 @@ There are a number of smaller, specific categories of IP in US law ([like plant 
 ##### — HARPER LEE "TO KILL A MOCKINGBIRD"
 ![Harper Lee](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_harperless.png)  
 
-* ["Harper Lee Sues Agent Over Copyright on ‘Mockingbird’" · The New York Times](https://www.nytimes.com/2013/05/07/business/media/harper-lee-sues-agent-over-
-copyright-on-mockingbird.html?_r=1)
+* ["Harper Lee Sues Agent Over Copyright on ‘Mockingbird’" · The New York Times](https://www.nytimes.com/2013/05/07/business/media/harper-lee-sues-agent-over-copyright-on-mockingbird.html?_r=1)
 
 ##### — COPYCAT APPLE STORES
 ![applestores](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/b1_applesstores.png)  
