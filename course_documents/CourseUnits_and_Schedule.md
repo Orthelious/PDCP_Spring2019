@@ -140,7 +140,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [B.3]	Licensing and Royalties   
 * [B.4]	Permissions, Derivatives, and Fair Use 
 * [C.1]	Standards for Legal Agreements  
-* [C.2]	Contracting Basics  
 
 *Assignments:*
 
@@ -151,6 +150,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="5">**WEEK 5**  — FEBRUARY 15, 2019</a>
 *Units covered:*
 
+* [C.2]	Contracting Basics  
 * [D.1]	Introduction to Financial Concepts  
 * [D.2]	Fundraising: Gifts and Debt Financing   
 * [D.3]	Fundraising: Grants  
