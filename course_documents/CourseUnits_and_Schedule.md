@@ -139,7 +139,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * [B.3]	Licensing and Royalties   
 * [B.4]	Permissions, Derivatives, and Fair Use 
-* [C.1]	Standards for Legal Agreements  
+ 
 
 *Assignments:*
 
@@ -150,36 +150,36 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="5">**WEEK 5**  — FEBRUARY 15, 2019</a>
 *Units covered:*
 
+* [C.1]	Standards for Legal Agreements 
 * [C.2]	Contracting Basics  
-* [D.1]	Introduction to Financial Concepts  
-* [D.2]	Fundraising: Gifts and Debt Financing   
-* [D.3]	Fundraising: Grants  
+* [D.1]	Introduction to Financial Concepts   
 
 *Assignments:*
 
 * Homework #2 — Due 2/22/19
-* Grant Proposal Project — Due 3/8/19 
 
 ***
 
 ###### <a name="6">**WEEK 6**  — FEBRUARY 22, 2019</a>
 *Units covered:*
 
-* [D.4]	Earned Income: Sales and Price   
-* [D.5]	Earned Income: Services, Rates and Fees  
+* [D.2]	Fundraising: Gifts and Debt Financing   
+* [D.3]	Fundraising: Grants 
 * [D.6]	Proposal Writing and Budgeting Basics  
 
 *Assignments:*
 
 * Quiz #3 — Due 3/1/19
+* Grant Proposal Project — Due 3/8/19 
+
 
 ***
 
 ###### <a name="7">**WEEK 7**  — MARCH 1, 2019</a>
 *Units covered:*  
 
-* [D.7]	Managing Finances and Financial Planning  
-* [D.8]	Taxes 
+* [D.4]	Earned Income: Sales and Price   
+* [D.5]	Earned Income: Services, Rates and Fees  
 
 *Assignments:*
 
@@ -203,10 +203,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 ###### <a name="11">**WEEK 11**  — MARCH 29, 2019</a>
 *Units covered:*  
-
-* [E.1]	Business Plans and Models  
-* [E.2]	Elements of Business Strategy and Market Analysis  
-* [E.3]	Long-term Planning  
+* [D.7]	Managing Finances and Financial Planning  
+* [D.8]	Taxes 
 
 *Assignments:*
 
@@ -217,9 +215,9 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 ###### <a name="12">**WEEK 12**  — APRIL 5, 2019</a>
 *Units covered:*  
-
-* [F.1]	Marketing Basics  
-* [F.2]	Public Relations and Media
+* [E.1]	Business Plans and Models  
+* [E.2]	Elements of Business Strategy and Market Analysis  
+* [E.3]	Long-term Planning  
 
 *Assignments:*
 
@@ -238,6 +236,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="14">**WEEK 14**  — APRIL 19, 2019</a>
 *Units covered:*  
 
+* [F.1]	Marketing Basics  
+* [F.2]	Public Relations and Media
 * [G.1]	Presentation Skills  
 
 *Class Activities:*
