@@ -152,7 +152,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * [C.1]	Standards for Legal Agreements 
 * [C.2]	Contracting Basics  
-* [D.1]	Introduction to Financial Concepts   
 
 *Assignments:*
 
@@ -163,6 +162,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ###### <a name="6">**WEEK 6**  — FEBRUARY 22, 2019</a>
 *Units covered:*
 
+* [D.1]	Introduction to Financial Concepts   
 * [D.2]	Fundraising: Gifts and Debt Financing   
 * [D.3]	Fundraising: Grants 
 * [D.6]	Proposal Writing and Budgeting Basics  
