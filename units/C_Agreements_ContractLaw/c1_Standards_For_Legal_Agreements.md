@@ -31,3 +31,6 @@ Contracts should accomplish *at least* the following:
 * **Very Short Length** — When it comes to contracts, brevity ≠ clarity.* **Legalese** — Lawyers speak legalese. Beware of language you do notunderstand, but is described as “standard legal language.”* **Mismatched Language** — If the contract reads like it was written by a fewdifferent people, it probably was.* **Non-negotiable** — Everything is negotiable. Never take someone’s word when they claim a contract is “standard” or that a clause isn’t up for negotiation. This is a tactic, not a rule.
 
 ### — FIVE RULES TO REMEMBER1. NEVER SIGN WITHOUT READING2. NEVER SIGN WITHOUT COMPREHENDING3. NEVER SUCCUMB TO PRESSURE TO SIGN4. NEVER START WORK WITHOUT AN AGREEMENT5. NEVER TAKE TERMS ON FAITH, TAKE THEM IN WRITING
+
+*Let's take a look at a sample, bad contract together:*
+[Work-for-hire Design Contract]()
