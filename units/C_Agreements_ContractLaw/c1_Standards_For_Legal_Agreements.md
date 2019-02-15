@@ -9,28 +9,74 @@ Two sections:
 ### A quick definition
 
 *From the Googles:*
-* A negotiated and typically legally binding arrangement between parties asto a course of action.
 
-##### — Agreements should accomplish at least the following:* Clearly define the parties.* Define the terms of the arrangement.
+* A negotiated and typically legally binding arrangement between parties as
+to a course of action.
 
-##### — Defining terms: "Agreement" vs "Contract"These terms are often used interchangeably, but there is an essential difference:* An agreement creates an **obligation** between two parties.* You can have an agreement, but still not be **legally bound to the terms**.* An agreement is just a **part** of the process for creating a legally binding arrangement.* A contract is a **promise or set of promises that the law will enforce.**
+##### — Agreements should accomplish at least the following:
+* Clearly define the parties.
+* Define the terms of the arrangement.
+
+##### — Defining terms: "Agreement" vs "Contract"
+These terms are often used interchangeably, but there is an essential difference:
+
+* An agreement creates an **obligation** between two parties.
+* You can have an agreement, but still not be **legally bound to the terms**.
+* An agreement is just a **part** of the process for creating a legally binding arrangement.
+* A contract is a **promise or set of promises that the law will enforce.**
 
 Contracts should accomplish *at least* the following:
-* Clearly define the parties.* Define the terms of the arrangement.* **Create a legally binding arrangement.**
+
+* Clearly define the parties.
+* Define the terms of the arrangement.
+* **Create a legally binding arrangement.**
 
 
-## Contract essentials* The Four Elements* Written vs. Verbal Contracts* Invalidation* Some Common Red Flags* Five Rules to Remember
+## Contract essentials
+* The Four Elements
+* Written vs. Verbal Contracts
+* Invalidation
+* Some Common Red Flags
+* Five Rules to Remember
 
-### — The Four ElementsTo create a legally binding contract, an agreement must have the fouressential elements:* An Offer* An Intention to create a legal relationship* A Consideration* An Acceptance
+### — The Four Elements
+To create a legally binding contract, an agreement must have the four
+essential elements:
 
-### — Written vs. verbal contractsFun fact: Legally binding contracts *can be* 100% verbal!* They are very hard to prove in court.* Some kinds of contracts can only be made in writing (especially when it involves physical property.)* Best Practice: Negotiate in person, agree in writing.
+* An Offer
+* An Intention to create a legal relationship
+* A Consideration (i.e. money, property)
+* An Acceptance
 
-### — InvalidationWhat invalidates an agreement?* Enticing criminality* Lacking capacity* Agreements made under duress
+### — Written vs. verbal contracts
+Fun fact: Legally binding contracts *can be* 100% verbal!
 
-### — Some common red flagsBe on the lookout for the following when creating a contract:
-* **Very Short Length** — When it comes to contracts, brevity ≠ clarity.* **Legalese** — Lawyers speak legalese. Beware of language you do notunderstand, but is described as “standard legal language.”* **Mismatched Language** — If the contract reads like it was written by a fewdifferent people, it probably was.* **Non-negotiable** — Everything is negotiable. Never take someone’s word when they claim a contract is “standard” or that a clause isn’t up for negotiation. This is a tactic, not a rule.
+* They are very hard to prove in court.
+* Some kinds of contracts can only be made in writing (especially when it involves physical property.)
+* Best Practice: Negotiate in person, agree in writing.
 
-### — FIVE RULES TO REMEMBER1. NEVER SIGN WITHOUT READING2. NEVER SIGN WITHOUT COMPREHENDING3. NEVER SUCCUMB TO PRESSURE TO SIGN4. NEVER START WORK WITHOUT AN AGREEMENT5. NEVER TAKE TERMS ON FAITH, TAKE THEM IN WRITING
+### — Invalidation
+What invalidates an agreement?
+
+* Enticing criminality
+* Lacking capacity
+* Agreements made under duress
+
+### — Some common red flags
+Be on the lookout for the following when creating a contract:
+
+* **Very Short Length** — When it comes to contracts, brevity ≠ clarity.
+* **Legalese** — Lawyers speak legalese. If a contract is confusing or you don't understand the terms, consult with a lawyer or legal professional. 
+* **Mismatched Language** — If the contract reads like it was written by a few
+different people, it probably was.
+* **Non-negotiable** — Everything is negotiable. Never take someone’s word when they claim a contract is “standard” or that a clause isn’t up for negotiation. This is a tactic, not a rule.
+
+### — FIVE RULES TO REMEMBER
+1. NEVER SIGN WITHOUT READING
+2. NEVER SIGN WITHOUT COMPREHENDING
+3. NEVER SUCCUMB TO THE PRESSURE TO SIGN
+4. NEVER START WORK WITHOUT AN AGREEMENT
+5. NEVER TAKE TERMS ON FAITH, TAKE THEM IN WRITING
 
 ### — In Context
 
