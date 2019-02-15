@@ -25,12 +25,17 @@ Contracts should accomplish *at least* the following:
 
 ### — Written vs. verbal contractsFun fact: Legally binding contracts *can be* 100% verbal!* They are very hard to prove in court.* Some kinds of contracts can only be made in writing (especially when it involves physical property.)* Best Practice: Negotiate in person, agree in writing.
 
-### — InvalidationWhat invalidates an agreement?* Enticing criminality* Lacking capacity* Agreements made under duress
+### — InvalidationWhat invalidates an agreement?* Enticing criminality* Lacking capacity* Agreements made under duress
 
 ### — Some common red flagsBe on the lookout for the following when creating a contract:
 * **Very Short Length** — When it comes to contracts, brevity ≠ clarity.* **Legalese** — Lawyers speak legalese. Beware of language you do notunderstand, but is described as “standard legal language.”* **Mismatched Language** — If the contract reads like it was written by a fewdifferent people, it probably was.* **Non-negotiable** — Everything is negotiable. Never take someone’s word when they claim a contract is “standard” or that a clause isn’t up for negotiation. This is a tactic, not a rule.
 
 ### — FIVE RULES TO REMEMBER1. NEVER SIGN WITHOUT READING2. NEVER SIGN WITHOUT COMPREHENDING3. NEVER SUCCUMB TO PRESSURE TO SIGN4. NEVER START WORK WITHOUT AN AGREEMENT5. NEVER TAKE TERMS ON FAITH, TAKE THEM IN WRITING
 
+### — In Context
+
 *Let's take a look at a sample, bad contract together:*
-[Work-for-hire Design Contract]()
+[Work-for-hire Design Contract](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/HarryPotter_DesignContract.pdf)
+
+*And a good contract:*
+[Americans for the Arts Design Development Agreement](https://github.com/Orthelious/PDCP_Spring2019/blob/master/course_documents/Design%20Development%20Agreement.pdf)
