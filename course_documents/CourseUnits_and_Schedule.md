@@ -164,26 +164,21 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * [D.1]	Introduction to Financial Concepts   
 * [D.2]	Fundraising: Gifts and Debt Financing   
-* [D.3]	Fundraising: Grants 
-* [D.6]	Proposal Writing and Budgeting Basics  
 
 *Assignments:*
 
-* Quiz #3 — Due 3/1/19
-* Grant Proposal Project — Due 3/8/19 
-
+* Grant Proposal Project — Due 3/16/19 
 
 ***
 
 ###### <a name="7">**WEEK 7**  — MARCH 1, 2019</a>
 *Units covered:*  
 
-* [D.4]	Earned Income: Sales and Price   
-* [D.5]	Earned Income: Services, Rates and Fees  
+* [D.3]	Fundraising: Grants 
+* [D.6]	Proposal Writing and Budgeting Basics  
 
-*Assignments:*
 
-* Homework #3 — In-Class Assignment
+* Quiz #3 — Due 3/8/19
 
 ***
 
@@ -198,11 +193,19 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 *Class Activity*
 
 * *Grant Project Review Panel*
+* [D.4]	Earned Income: Sales and Price  
  
+ *Assignments:*
+ 
+ * Homework #3 — In-Class Assignment  
+ 	
 ***
+
 
 ###### <a name="11">**WEEK 11**  — MARCH 29, 2019</a>
 *Units covered:*  
+ 
+* [D.5]	Earned Income: Services, Rates and Fees  
 * [D.7]	Managing Finances and Financial Planning  
 * [D.8]	Taxes 
 
