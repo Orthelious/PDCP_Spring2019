@@ -167,7 +167,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Grant Proposal Project — Due 3/16/19 
+* Grant Proposal Project — Due 3/17/19 
 
 ***
 
