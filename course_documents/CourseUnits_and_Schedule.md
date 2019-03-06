@@ -178,7 +178,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 * [D.6]	Proposal Writing and Budgeting Basics  
 
 
-* Quiz #3 — Due 3/8/19
+* Quiz #3 — Due 3/22/19
 
 ***
 
