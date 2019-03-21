@@ -90,13 +90,13 @@ Price for generic goods is primarily set by a market’s supply and demand. In g
 
 Let's take a deeper dive with this video I came across literally yesterday from Christie's Education:
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/d4_artmarketeconomics.png)
+[![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/d4_artmarketeconomics.png)](https://www.artsy.net/article/artsy-editorial-artworks-prices)
 
 [How Artworks Get Their Prices · Artsy
 ](https://www.artsy.net/article/artsy-editorial-artworks-prices)
 
 While that video was a good examination of individual price for a work, let's zoom out a bit and examine how the art market operates as a whole:
 
-![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/d4_theartmarket.png)
-
+[![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/d4_theartmarket.png)
+](https://www.youtube.com/watch?v=GH7lBHQ35lU&list=PLJ_rW389EXHrhyBRPg58NBwbIiwo7JVDU)
 [The Art Market (In Four Parts) · Oscar Boyson ](https://www.youtube.com/watch?v=GH7lBHQ35lU&list=PLJ_rW389EXHrhyBRPg58NBwbIiwo7JVDU)
