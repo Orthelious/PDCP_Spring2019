@@ -194,10 +194,6 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * *Grant Project Review Panel*
 * [D.4]	Earned Income: Sales and Price  
- 
- *Assignments:*
- 
- * Homework #3 — In-Class Assignment  
  	
 ***
 
@@ -211,19 +207,20 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
-* Homework #4 — Due 4/5/19
-* Business Plan Project — Due 5/10/19  
- 
+* Homework #3 — In-Class Assignment 
+* Homework #4 — Due 4/5/19 
 ***
 
 ###### <a name="12">**WEEK 12**  — APRIL 5, 2019</a>
 *Units covered:*  
+
 * [E.1]	Business Plans and Models  
 * [E.2]	Elements of Business Strategy and Market Analysis  
 * [E.3]	Long-term Planning  
 
 *Assignments:*
 
+* Business Plan Project — Due 5/10/19  
 * Quiz #4 — Due 4/19/19
 
 *Class Activity*
