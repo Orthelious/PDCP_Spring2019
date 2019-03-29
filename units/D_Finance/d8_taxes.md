@@ -53,8 +53,10 @@ These include things like retirement account contributions.
 
 **» Applied Deductions**
 
-Then we have to apply deductions. There are two methods for applying deductions: **Standard** and **Itemized****— Standard** = An set amount of money you get to automatically deduct.* The government determines what this amount is.* What’s your standard deduction? Back to the [IRS site](https://www.irs.com/articles/2018-federal-tax-rates-personal-exemptions-and-standard-deductions)!
-**— Itemized** = Listing out and adding up each individual deduction you qualify for.* If your itemized deductions **are less than** the standard deduction, you have to use the standard deduction.You can only pick **one method**: standard or itemized. Pick the one that **saves you the most money.**
+Then we have to apply deductions for **personal income** taxes. There are two methods for applying deductions: **Standard** and **Itemized****— Standard** = An set amount of money you get to automatically deduct.* The government determines what this amount is.* What’s your standard deduction? Back to the [IRS site](https://www.irs.com/articles/2018-federal-tax-rates-personal-exemptions-and-standard-deductions)!
+**— Itemized** = Listing out and adding up each individual deduction you qualify for.* If your itemized deductions **are less than** the standard deduction, you have to use the standard deduction.For personal income, you can only pick **one method**: standard or itemized. Pick the one that **saves you the most money.**
+
+For **Business deductions**, you apply these deductions ***IN ADDITION TO*** your personal deduction.
 
 *What are deductible business expenses?*
 *Here's a short list:** Materials and supplies* Studio expenses (rent + utilities)* Advertising* Travel* Vehicle expenses* Fees paid (To enter competitions, fairs, etc)* Vendor fees (paypal, etc)* Contract fees (That you pay to other contractors)* Large equipment (Like a laptop, table saw, welder, loom, etc)* Legal and professional services (Lawyers, accountants, etc* Repairs and maintenance (of things like your equipment)* Cell phone costs* Education costs* Conference expenses* Relevant cultural events* Books, magazines and reference material* Film and processing* Framing* Home office expenses* Software subscriptions* Business insurance expenses* Business meals* Business gifts* Office supplies* Taxes (other than income tax)* Tax preparation fees* Postage* Couriers* Internet
