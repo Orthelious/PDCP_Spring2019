@@ -49,11 +49,7 @@ What is considered taxable income essentially just refers to your **profits**.
 
 First, there are certain categories that the government will automatically not tax, therefore lowering your taxable income. 
 
-These include things like:
-
-* Retirement account contributions
-* Charitable donations
-* Payments on student loan interest
+These include things like retirement account contributions.
 
 **» Applied Deductions**
 
