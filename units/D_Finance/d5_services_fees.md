@@ -54,9 +54,9 @@ The parameters of a service agreement should be set forth in a service contract.
 3. Assuming you're breaking even in life, we'll assume you're going to make exactly enough money to cover your living expenses. So, for this exercise *cost of living* = **(C) net income**
 
 3. Estimate your tax burden based on your (C) net income. 
-	* We're going to cover calculating tax rates later, but for this exercise we'll use an *very approximate* 18%
+	* We're going to cover calculating tax rates later, but for this exercise we'll use an *very approximate* 25%
 	* Calculate what you would have paid in taxes and add that to your (C) net income. 
-	* For example: For a 18% tax rate, divide (C) by 82%.
+	* For example: For a 25% tax rate, divide (C) by 75%.
 	* The final number is your **(D) gross annual income.** 
 
 5. (D) Gross Annual Income / (A) Workable hours = (E) Your base hourly rate. 
@@ -81,15 +81,15 @@ The parameters of a service agreement should be set forth in a service contract.
 
 		(C) Net Income — $32,880 [Net income needed = (B) cost of living]	
 		
-		(D) Gross Income - $40,097
-			* Tax rate of 18%
-			* $32,880 / .82 = $40,097 
+		(D) Gross Income - $43,840
+			* Tax rate of 25%
+			* $32,880 / .75 = $40,097 
 
 		(E) Base Hourly Rate — $20!
-			* (D) $40,097 / (A) 2,000 hours = $20 per hour
+			* (D) $43,840 / (A) 2,000 hours = $22 per hour
 
 			
-So, to maintain that lifestyle you need to make $20 per hour at your job. 
+So, to maintain that lifestyle you need to make $22 per hour at your job. 
 ****
 
 Let's play with the numbers a bit. Let's say you only work 1,500 hours per year:
@@ -112,14 +112,15 @@ Let's play with the numbers a bit. Let's say you only work 1,500 hours per year:
 
 		(C) Net Income — $32,880 [Net income needed = (B) cost of living]	
 		
-		(D) Gross Income - $40,097
-			* Tax rate of 18%
-			* $32,880 / .82 = $40,097 
+		(D) Gross Income - $43,840
+			* Tax rate of 25%
+			* $32,880 / .75 = $40,097 
 
-		(E) Base Hourly Rate — $27!
-			* (D) $40,097 / (A) 1,500 hours = $27 per hour
+		(E) Base Hourly Rate — $29!
+			* (D) $43,840 / (A) 1,500 hours = $29 per hour
+		
+
 ****
-
 Let's change the format of your rate. Let's say you charge a day rate instead of hourly. 
 
 		(A) Workable days in a year — 250
@@ -142,12 +143,13 @@ Let's change the format of your rate. Let's say you charge a day rate instead of
 
 		(C) Net Income — $32,880 [Net income needed = (B) cost of living]	
 		
-		(D) Gross Income - $40,097
-			* Tax rate of 18%
-			* $32,880 / .82 = $40,097 
+		(D) Gross Income - $43,840
+			* Tax rate of 25%
+			* $32,880 / .75 = $40,097 
 
-		(E) Base Hourly Rate — $160!
-			* (D) $40,097 / (A) 250 days = $160 per day
+		(E) Base Day Rate — $175!
+			* (D) $43,840 / (A) 250 days = $175 per day
+
 
 			
 ****
