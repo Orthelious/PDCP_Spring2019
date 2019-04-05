@@ -84,8 +84,8 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ***Summary*** — The goal of this Unit is to present a surface level entry point into the world of strategic planning, business models, and market analysis. These high-level tools are focused on the forest, not the trees. We will use a series of frameworks to practice taking a nebulous idea and turning it into a realistic, actionable plan. We will focus in particular on Business Plans—for the final project of this course, all students will make and present an individual business plan.   
 
 [E.1]	Business Plans and Models  
-[E.2]	Elements of Business Strategy and Market Analysis  
-[E.3]	Long-term Planning  
+[E.2]	Elements of Business Strategy and Market Analysis, and Long-term Planning  
+
 #### <a name="f">UNIT F — Communications</a>
 ***Summary*** — How do we get our work in front of people? The *right* people? This question is the root goal of good marketing and communications strategies. During this unit, we will go over the basics of how to put a communications strategy together, understand the best practices of public relations, and effectively market your work. 
 
