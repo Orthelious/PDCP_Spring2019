@@ -221,7 +221,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 *Assignments:*
 
 * Business Plan Project — Due 5/10/19  
-* Quiz #4 — Due 4/19/19
+* Homework #4 — Due 4/19/19
 
 *Class Activity*
 
@@ -238,24 +238,21 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 * [F.1]	Marketing Basics  
 * [F.2]	Public Relations and Media
-* [G.1]	Presentation Skills  
 
 *Class Activities:*
 
-* Public Presentation Workshop
 * Business Plan Work Session
 
  
 *Assignments:*
-
-* Homework #5 — In-class activity
  
 ***
 
 ###### <a name="15">**WEEK 15**  — APRIL 26, 2019</a>
 *Units covered:*  
 
-* [G.2]	Networking  
+* [G.1]	Presentation Skills  
+* [G.2]	Networking   
 
 *Class Activity*
 
@@ -264,6 +261,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 
 *Assignments:*
 
+* Homework #5 — In-class activity
 * Homework #6 — Due 5/10/19
 
 ***
