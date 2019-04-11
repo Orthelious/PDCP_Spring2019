@@ -230,7 +230,7 @@ With that starting knowledge, we will dive head-first into Agency and Labor. Or 
 ***
 
 ###### **WEEK 13**  — APRIL 12, 2019</a>
-**_NO CLASS — CARNIVAL_**
+**_NO CLASS — CARNIVAL_**  
 ***
 
 ###### <a name="14">**WEEK 14**  — APRIL 19, 2019</a>
