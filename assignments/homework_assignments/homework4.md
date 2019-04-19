@@ -9,7 +9,7 @@
 [E.2]	Elements of Business Strategy and Market Analysis, and Long-term Planning  
 
 ### // Instructions
-In preperation for our final project in this course, I would like you to make a draft business model. Select an idea relevant to your creative practice—this could be starting your own studio, launching a product, running a music festival—it's really up to you. 
+In preparation for our final project in this course, I would like you to make a draft business model. Select an idea relevant to your creative practice—this could be starting your own studio, launching a product, running a music festival—it's really up to you. 
 
 This idea will be the focus of the final project: a business plan. As a first step, I'd like you to brainstorm a business model for your idea. 
 
