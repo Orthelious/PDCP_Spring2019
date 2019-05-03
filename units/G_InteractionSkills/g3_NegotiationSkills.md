@@ -57,13 +57,10 @@ Some of the most common negotiation mistakes you can make are:* Not coming pre
 
 ## In-Class Exercise: Mock Negotiation
 
+We’re going to have three 6-minute negotiations. Two teams per negotiation.
+*Instructions:*
 
-
-
-
-
-
-
+* Count off 1-6* Come and get your position sheet (DON’T SHARE!)* Go out in the hallway—you have ten minutes to prepare* We will flip a 3-sided coin to see who goes first
 
 
 
