@@ -1,5 +1,5 @@
 # FINAL PROJECT: BUSINESS PLAN
-### Due 5/8/19 @ 11:59 PM
+### Due 5/10/19 @ 5:00 PM
 
 ## Instructions
 The final assignment in this course is to develop a personalized business plan for your creative practice. I want you to choose an idea—this could be as simple as a singular exhibition to as complex as a major corporations—and through a business plan *tell me how you're going to pull it off.*
